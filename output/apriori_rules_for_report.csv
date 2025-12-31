@@ -1,0 +1,13 @@
+support,confidence,lift,LHS,RHS
+0.06149732620320856,0.92,4.468571428571429,"SleepDuration_bin=Normal, Stress_bin=Low",Sleep Disorder=Insomnia
+0.06149732620320856,0.92,4.468571428571429,"Quality_bin=Medium, Stress_bin=Low",Sleep Disorder=Insomnia
+0.07754010695187166,0.9062500000000001,4.345352564102565,"BMI Category=Overweight, Steps_bin=High",Sleep Disorder=Sleep Apnea
+0.07754010695187166,0.9062500000000001,4.345352564102565,"Activity_bin=High, Stress_bin=High",Sleep Disorder=Sleep Apnea
+0.0748663101604278,0.9032258064516129,4.330851943755169,"Activity_bin=High, SleepDuration_bin=Normal",Sleep Disorder=Sleep Apnea
+0.06951871657754011,0.8965517241379309,4.2988505747126435,"Age_bin=Middle, Steps_bin=High",Sleep Disorder=Sleep Apnea
+0.15775401069518716,0.8939393939393938,4.286324786324785,"Activity_bin=High, BMI Category=Overweight",Sleep Disorder=Sleep Apnea
+0.08021390374331551,0.8823529411764706,4.230769230769231,"BMI Category=Overweight, Quality_bin=Good",Sleep Disorder=Sleep Apnea
+0.08823529411764706,0.868421052631579,4.163967611336033,"Activity_bin=High, Age_bin=Old",Sleep Disorder=Sleep Apnea
+0.07754010695187166,0.8529411764705883,4.08974358974359,"Gender=Female, Steps_bin=High",Sleep Disorder=Sleep Apnea
+0.07754010695187166,0.8529411764705883,4.08974358974359,"Quality_bin=Medium, Steps_bin=High",Sleep Disorder=Sleep Apnea
+0.07754010695187166,0.8529411764705883,4.08974358974359,"Steps_bin=High, Stress_bin=High",Sleep Disorder=Sleep Apnea

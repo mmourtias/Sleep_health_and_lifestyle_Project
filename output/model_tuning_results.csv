@@ -1,6 +1,0 @@
-Model,Best Accuracy,Best Params
-Random Forest,0.919487908961593,"{'max_depth': 10, 'n_estimators': 50}"
-ADABOOST,0.9086770981507823,"{'learning_rate': 1.0, 'n_estimators': 50}"
-Decision Tree (C4.5),0.9061877667140825,"{'max_depth': 8, 'min_samples_split': 2}"
-KNN,0.9061877667140823,"{'n_neighbors': 5, 'weights': 'distance'}"
-Naive Bayes,0.884637268847795,{}

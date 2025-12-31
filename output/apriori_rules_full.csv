@@ -1,0 +1,1425 @@
+support,confidence,lift,LHS,RHS
+0.0855614973262032,1.0,10.38888888888889,"Activity_bin=High, Stress_bin=High",Steps_bin=High
+0.08288770053475936,1.0,10.38888888888889,"Activity_bin=High, SleepDuration_bin=Normal",Steps_bin=High
+0.07754010695187166,0.8055555555555556,8.368827160493828,"Quality_bin=Medium, Sleep Disorder=Sleep Apnea",Steps_bin=High
+0.0748663101604278,0.7999999999999999,8.31111111111111,"Sleep Disorder=Sleep Apnea, SleepDuration_bin=Normal",Steps_bin=High
+0.07754010695187166,0.7250000000000001,7.531944444444446,"Sleep Disorder=Sleep Apnea, Stress_bin=High",Steps_bin=High
+0.06951871657754011,0.7222222222222222,7.503086419753086,"Age_bin=Middle, Sleep Disorder=Sleep Apnea",Steps_bin=High
+0.0855614973262032,0.6956521739130435,7.2270531400966185,"Gender=Female, Stress_bin=High",Steps_bin=High
+0.08823529411764706,0.9705882352941176,4.776315789473684,"BMI Category=Overweight, Quality_bin=Good",Age_bin=Old
+0.08288770053475936,0.96875,4.767269736842105,"Activity_bin=Low, SleepDuration_bin=Long",Age_bin=Old
+0.08288770053475936,0.96875,4.767269736842105,"Activity_bin=Low, Quality_bin=Good",Age_bin=Old
+0.08288770053475936,0.96875,4.767269736842105,"Activity_bin=Low, Stress_bin=Low",Age_bin=Old
+0.03208556149732621,1.0,4.675,Quality_bin=Poor,Activity_bin=Low
+0.03208556149732621,1.0,4.675,"Quality_bin=Poor, Stress_bin=High",Activity_bin=Low
+0.03208556149732621,1.0,4.675,"BP_bin=High, Quality_bin=Poor",Activity_bin=Low
+0.08823529411764706,0.9166666666666667,4.510964912280702,"BMI Category=Overweight, SleepDuration_bin=Long",Age_bin=Old
+0.08021390374331551,0.9090909090909091,4.473684210526315,"Sleep Disorder=Sleep Apnea, Stress_bin=Low",Age_bin=Old
+0.06149732620320856,0.92,4.468571428571429,"SleepDuration_bin=Normal, Stress_bin=Low",Sleep Disorder=Insomnia
+0.06149732620320856,0.92,4.468571428571429,"Quality_bin=Medium, Stress_bin=Low",Sleep Disorder=Insomnia
+0.10962566844919786,0.9534883720930232,4.457558139534884,"Age_bin=Young, Stress_bin=High",Activity_bin=Low
+0.08288770053475936,0.9393939393939393,4.391666666666667,"Age_bin=Old, Steps_bin=Low",Activity_bin=Low
+0.07754010695187166,0.9062500000000001,4.345352564102565,"BMI Category=Overweight, Steps_bin=High",Sleep Disorder=Sleep Apnea
+0.07754010695187166,0.9062500000000001,4.345352564102565,"Activity_bin=High, Stress_bin=High",Sleep Disorder=Sleep Apnea
+0.0748663101604278,0.9032258064516129,4.330851943755169,"Activity_bin=High, SleepDuration_bin=Normal",Sleep Disorder=Sleep Apnea
+0.0962566844919786,0.923076923076923,4.315384615384615,"Steps_bin=Low, Stress_bin=High",Activity_bin=Low
+0.09358288770053476,0.9210526315789473,4.305921052631579,"BMI Category=Normal, Stress_bin=High",Activity_bin=Low
+0.0855614973262032,1.0,4.2988505747126435,"Activity_bin=Low, SleepDuration_bin=Long",Steps_bin=Low
+0.0855614973262032,1.0,4.2988505747126435,"Activity_bin=Low, Quality_bin=Good",Steps_bin=Low
+0.0855614973262032,1.0,4.2988505747126435,"Activity_bin=Low, Stress_bin=Low",Steps_bin=Low
+0.08288770053475936,1.0,4.2988505747126435,"Activity_bin=Low, Age_bin=Old",Steps_bin=Low
+0.03208556149732621,1.0,4.2988505747126435,"Gender=Male, HR_bin=Elevated",Steps_bin=Low
+0.06951871657754011,0.8965517241379309,4.2988505747126435,"Age_bin=Middle, Steps_bin=High",Sleep Disorder=Sleep Apnea
+0.15775401069518716,0.8939393939393938,4.286324786324785,"Activity_bin=High, BMI Category=Overweight",Sleep Disorder=Sleep Apnea
+0.08288770053475936,0.9117647058823529,4.2625,"Age_bin=Old, BMI Category=Normal",Activity_bin=Low
+0.16310160427807488,0.9104477611940299,4.25634328358209,"BMI Category=Normal, Steps_bin=Low",Activity_bin=Low
+0.08021390374331551,0.8823529411764706,4.230769230769231,"BMI Category=Overweight, Quality_bin=Good",Sleep Disorder=Sleep Apnea
+0.08021390374331551,0.8571428571428572,4.218045112781955,"Quality_bin=Good, Sleep Disorder=Sleep Apnea",Age_bin=Old
+0.09358288770053476,0.853658536585366,4.200898587933248,"Activity_bin=High, Stress_bin=Low",Age_bin=Old
+0.09358288770053476,0.8974358974358975,4.195512820512821,"BMI Category=Normal, SleepDuration_bin=Normal",Activity_bin=Low
+0.08823529411764706,0.868421052631579,4.163967611336033,"Activity_bin=High, Age_bin=Old",Sleep Disorder=Sleep Apnea
+0.10160427807486631,0.8837209302325582,4.131395348837209,"Age_bin=Young, SleepDuration_bin=Normal",Activity_bin=Low
+0.15775401069518716,0.8805970149253731,4.11679104477612,"HR_bin=Normal, Steps_bin=Low",Activity_bin=Low
+0.07754010695187166,0.8529411764705883,4.08974358974359,"Gender=Female, Steps_bin=High",Sleep Disorder=Sleep Apnea
+0.07754010695187166,0.8529411764705883,4.08974358974359,"Quality_bin=Medium, Steps_bin=High",Sleep Disorder=Sleep Apnea
+0.07754010695187166,0.8529411764705883,4.08974358974359,"Steps_bin=High, Stress_bin=High",Sleep Disorder=Sleep Apnea
+0.07754010695187166,0.8529411764705883,4.08974358974359,"Activity_bin=High, Steps_bin=High",Sleep Disorder=Sleep Apnea
+0.07754010695187166,0.8529411764705883,4.08974358974359,"BP_bin=High, Steps_bin=High",Sleep Disorder=Sleep Apnea
+0.14705882352941177,0.873015873015873,4.0813492063492065,"Sleep Disorder=None, Steps_bin=Low",Activity_bin=Low
+0.0748663101604278,0.8484848484848484,4.068376068376068,"SleepDuration_bin=Normal, Steps_bin=High",Sleep Disorder=Sleep Apnea
+0.08823529411764706,0.868421052631579,4.059868421052632,"SleepDuration_bin=Normal, Steps_bin=Low",Activity_bin=Low
+0.15775401069518716,0.8428571428571429,4.041391941391941,"Activity_bin=High, Gender=Female",Sleep Disorder=Sleep Apnea
+0.0962566844919786,0.8571428571428571,4.007142857142857,"Gender=Female, Steps_bin=Low",Activity_bin=Low
+0.08021390374331551,0.8333333333333334,3.9957264957264957,"BMI Category=Overweight, SleepDuration_bin=Long",Sleep Disorder=Sleep Apnea
+0.0962566844919786,0.8181818181818181,3.974025974025974,"Activity_bin=Moderate, Stress_bin=High",Sleep Disorder=Insomnia
+0.15775401069518716,0.8082191780821917,3.9256360078277885,"Activity_bin=Moderate, BMI Category=Overweight",Sleep Disorder=Insomnia
+0.08288770053475936,0.9117647058823529,3.9195402298850572,"Age_bin=Old, BMI Category=Normal",Steps_bin=Low
+0.16310160427807488,0.9104477611940299,3.913878881454795,"Activity_bin=Low, BMI Category=Normal",Steps_bin=Low
+0.08021390374331551,0.8333333333333334,3.8958333333333335,"Age_bin=Old, Sleep Disorder=None",Activity_bin=Low
+0.08021390374331551,0.7894736842105263,3.8850415512465375,"Sleep Disorder=Sleep Apnea, SleepDuration_bin=Long",Age_bin=Old
+0.09893048128342247,0.9736842105263158,3.874020156774916,"BMI Category=Normal, Stress_bin=High",Age_bin=Young
+0.0962566844919786,0.9,3.8689655172413793,"Activity_bin=Low, Gender=Female",Steps_bin=Low
+0.08823529411764706,0.7857142857142857,3.8665413533834583,"Gender=Female, Steps_bin=Low",Age_bin=Old
+0.08823529411764706,0.7857142857142857,3.8665413533834583,"Quality_bin=Good, Steps_bin=Low",Age_bin=Old
+0.08823529411764706,0.7857142857142857,3.8665413533834583,"Steps_bin=Low, Stress_bin=Low",Age_bin=Old
+0.07754010695187166,0.8055555555555556,3.8625356125356127,Steps_bin=High,Sleep Disorder=Sleep Apnea
+0.07754010695187166,0.8055555555555556,3.8625356125356127,"HR_bin=Normal, Steps_bin=High",Sleep Disorder=Sleep Apnea
+0.0748663101604278,0.7777777777777778,3.827485380116959,"Sleep Disorder=Sleep Apnea, Steps_bin=Medium",Age_bin=Old
+0.15775401069518716,0.7866666666666666,3.820952380952381,"Activity_bin=Moderate, SleepDuration_bin=Normal",Sleep Disorder=Insomnia
+0.08288770053475936,0.775,3.813815789473684,"Activity_bin=Low, Gender=Female",Age_bin=Old
+0.14705882352941177,0.8870967741935485,3.813496477567668,"Activity_bin=Low, Sleep Disorder=None",Steps_bin=Low
+0.17379679144385027,0.9558823529411764,3.803191489361702,"BMI Category=Normal, Quality_bin=Medium",Age_bin=Young
+0.09893048128342247,0.9487179487179488,3.7746863066012004,"BMI Category=Normal, SleepDuration_bin=Normal",Age_bin=Young
+0.08823529411764706,0.7857142857142857,3.7673992673992673,"Age_bin=Old, BMI Category=Overweight",Sleep Disorder=Sleep Apnea
+0.07754010695187166,0.8055555555555556,3.7659722222222225,"Sleep Disorder=None, Stress_bin=High",Activity_bin=Low
+0.08823529411764706,0.8048780487804879,3.762804878048781,"Age_bin=Young, Steps_bin=Low",Activity_bin=Low
+0.09090909090909091,0.9444444444444445,3.757683215130024,"Activity_bin=Low, Quality_bin=Medium",Age_bin=Young
+0.0855614973262032,0.7804878048780488,3.742338961851157,"Activity_bin=High, Stress_bin=Low",Sleep Disorder=Sleep Apnea
+0.16042780748663102,0.7692307692307693,3.7362637362637368,"SleepDuration_bin=Normal, Steps_bin=Medium",Sleep Disorder=Insomnia
+0.10962566844919786,0.9318181818181818,3.707446808510638,"Activity_bin=Low, Stress_bin=High",Age_bin=Young
+0.0855614973262032,0.7619047619047619,3.7006802721088436,"BMI Category=Overweight, Gender=Male",Sleep Disorder=Insomnia
+0.03208556149732621,0.8571428571428573,3.6847290640394093,"HR_bin=Elevated, Stress_bin=High",Steps_bin=Low
+0.09893048128342247,0.925,3.6803191489361704,"Activity_bin=Low, Gender=Male",Age_bin=Young
+0.15775401069518716,0.855072463768116,3.675828752290521,"Activity_bin=Low, HR_bin=Normal",Steps_bin=Low
+0.18181818181818182,0.8500000000000001,3.6540229885057474,Activity_bin=Low,Steps_bin=Low
+0.18181818181818182,0.8500000000000001,3.6540229885057474,"Activity_bin=Low, BP_bin=High",Steps_bin=Low
+0.18181818181818182,0.7816091954022988,3.654022988505747,Steps_bin=Low,Activity_bin=Low
+0.18181818181818182,0.7816091954022988,3.654022988505747,"BP_bin=High, Steps_bin=Low",Activity_bin=Low
+0.09358288770053476,0.7608695652173912,3.6482720178372348,"Gender=Female, Stress_bin=High",Sleep Disorder=Sleep Apnea
+0.09358288770053476,0.7446808510638298,3.617021276595745,"Steps_bin=Medium, Stress_bin=High",Sleep Disorder=Insomnia
+0.16310160427807488,0.7439024390243903,3.6132404181184676,"Activity_bin=Moderate, Quality_bin=Medium",Sleep Disorder=Insomnia
+0.08021390374331551,0.8333333333333334,3.582375478927203,"Age_bin=Old, Sleep Disorder=None",Steps_bin=Low
+0.053475935828877004,0.8333333333333333,3.5823754789272026,HR_bin=Elevated,Steps_bin=Low
+0.053475935828877004,0.8333333333333333,3.5823754789272026,"BP_bin=High, HR_bin=Elevated",Steps_bin=Low
+0.0855614973262032,0.7619047619047619,3.5619047619047617,"Quality_bin=Good, Steps_bin=Low",Activity_bin=Low
+0.0855614973262032,0.7619047619047619,3.5619047619047617,"Steps_bin=Low, Stress_bin=Low",Activity_bin=Low
+0.0748663101604278,0.7368421052631579,3.5330634278002697,"Age_bin=Old, Steps_bin=Medium",Sleep Disorder=Sleep Apnea
+0.08823529411764706,0.717391304347826,3.530320366132723,"SleepDuration_bin=Long, Steps_bin=Low",Age_bin=Old
+0.0962566844919786,0.8181818181818181,3.5172413793103443,"Activity_bin=Low, Stress_bin=High",Steps_bin=Low
+0.10160427807486631,0.8837209302325582,3.516081147946561,"Activity_bin=Low, SleepDuration_bin=Normal",Age_bin=Young
+0.06951871657754011,0.7428571428571429,3.472857142857143,"Quality_bin=Medium, Steps_bin=Low",Activity_bin=Low
+0.0855614973262032,0.7999999999999999,3.4390804597701146,"Activity_bin=Low, Gender=Male",Steps_bin=Low
+0.08288770053475936,0.8611111111111112,3.4261229314420807,"Sleep Disorder=None, Stress_bin=High",Age_bin=Young
+0.08823529411764706,0.8461538461538463,3.366612111292963,"Quality_bin=Medium, SleepDuration_bin=Long",Age_bin=Young
+0.08823529411764706,0.8461538461538463,3.366612111292963,"Steps_bin=Low, Stress_bin=High",Age_bin=Young
+0.17914438502673796,0.8375,3.3321808510638298,"Quality_bin=Medium, Sleep Disorder=None",Age_bin=Young
+0.0855614973262032,0.7111111111111111,3.3244444444444445,"Gender=Male, Steps_bin=Low",Activity_bin=Low
+0.10427807486631016,1.0,3.3097345132743365,"Quality_bin=Medium, SleepDuration_bin=Long",Stress_bin=Medium
+0.08823529411764706,0.7674418604651163,3.2991178829190058,"Age_bin=Young, Stress_bin=High",Steps_bin=Low
+0.08823529411764706,0.7674418604651163,3.2991178829190058,"Activity_bin=Low, Age_bin=Young",Steps_bin=Low
+0.08823529411764706,0.7674418604651163,3.2991178829190058,"Activity_bin=Low, SleepDuration_bin=Normal",Steps_bin=Low
+0.07754010695187166,0.7631578947368421,3.280701754385965,"BMI Category=Normal, Stress_bin=High",Steps_bin=Low
+0.09893048128342247,0.8222222222222223,3.2713947990543737,"Gender=Male, Steps_bin=Low",Age_bin=Young
+0.0855614973262032,0.6956521739130435,3.252173913043478,"SleepDuration_bin=Long, Steps_bin=Low",Activity_bin=Low
+0.08288770053475936,0.8157894736842105,3.245800671892497,"SleepDuration_bin=Normal, Steps_bin=Low",Age_bin=Young
+0.0855614973262032,0.9696969696969696,3.2094395280235988,"Activity_bin=High, Age_bin=Young",Stress_bin=Medium
+0.07754010695187166,0.7435897435897436,3.1965811965811963,"BMI Category=Normal, SleepDuration_bin=Normal",Steps_bin=Low
+0.0748663101604278,0.7999999999999999,3.182978723404255,"Quality_bin=Medium, Steps_bin=Low",Age_bin=Young
+0.17379679144385027,0.9558823529411764,3.163716814159292,"Activity_bin=High, Gender=Male",Stress_bin=Medium
+0.08288770053475936,0.6739130434782609,3.1505434782608694,"Sleep Disorder=None, SleepDuration_bin=Normal",Activity_bin=Low
+0.09358288770053476,1.0,3.1166666666666667,"Sleep Disorder=Sleep Apnea, SleepDuration_bin=Normal",Stress_bin=High
+0.09090909090909091,1.0,3.1166666666666667,"Quality_bin=Medium, Steps_bin=High",Stress_bin=High
+0.09090909090909091,1.0,3.1166666666666667,"BP_bin=High, Steps_bin=High",Stress_bin=High
+0.08823529411764706,1.0,3.1166666666666667,"SleepDuration_bin=Normal, Steps_bin=High",Stress_bin=High
+0.0855614973262032,1.0,3.1166666666666667,"BMI Category=Overweight, Steps_bin=High",Stress_bin=High
+0.08288770053475936,1.0,3.1166666666666667,"Activity_bin=High, SleepDuration_bin=Normal",Stress_bin=High
+0.07754010695187166,1.0,3.1166666666666667,"Sleep Disorder=Sleep Apnea, Steps_bin=High",Stress_bin=High
+0.07754010695187166,1.0,3.1166666666666667,"Age_bin=Middle, Steps_bin=High",Stress_bin=High
+0.03208556149732621,1.0,3.1166666666666667,Quality_bin=Poor,Stress_bin=High
+0.03208556149732621,1.0,3.1166666666666667,"Activity_bin=Low, Quality_bin=Poor",Stress_bin=High
+0.03208556149732621,1.0,3.1166666666666667,"BP_bin=High, Quality_bin=Poor",Stress_bin=High
+0.0962566844919786,0.7826086956521738,3.113783533765032,"Sleep Disorder=None, SleepDuration_bin=Normal",Age_bin=Young
+0.06951871657754011,0.7222222222222222,3.1047254150702424,"Activity_bin=Low, Quality_bin=Medium",Steps_bin=Low
+0.08288770053475936,0.7209302325581395,3.0991713445602778,"Age_bin=Young, SleepDuration_bin=Normal",Steps_bin=Low
+0.17647058823529413,0.6285714285714286,3.093233082706767,"Gender=Female, Quality_bin=Good",Age_bin=Old
+0.10160427807486631,0.7755102040816327,3.085540599218411,"Quality_bin=Medium, Stress_bin=Medium",Age_bin=Young
+0.17914438502673796,0.6261682242990655,3.081406787998033,"Gender=Female, SleepDuration_bin=Long",Age_bin=Old
+0.17379679144385027,0.9285714285714286,3.0733249051833127,"Activity_bin=High, BMI Category=Normal",Stress_bin=Medium
+0.10160427807486631,0.9743589743589743,3.0367521367521366,"BMI Category=Normal, SleepDuration_bin=Normal",Stress_bin=High
+0.1711229946524064,0.6153846153846153,3.0283400809716596,"BP_bin=High, Stress_bin=Low",Age_bin=Old
+0.18983957219251338,0.9594594594594594,2.990315315315315,"Gender=Male, SleepDuration_bin=Normal",Stress_bin=High
+0.10962566844919786,0.9534883720930232,2.9717054263565887,"Activity_bin=Low, Age_bin=Young",Stress_bin=High
+0.10160427807486631,0.9500000000000001,2.9608333333333334,"Activity_bin=Low, Gender=Male",Stress_bin=High
+0.0962566844919786,0.9473684210526315,2.952631578947368,"SleepDuration_bin=Normal, Steps_bin=Low",Stress_bin=High
+0.09090909090909091,0.9444444444444445,2.943518518518519,Steps_bin=High,Stress_bin=High
+0.09090909090909091,0.9444444444444445,2.943518518518519,"HR_bin=Normal, Steps_bin=High",Stress_bin=High
+0.0855614973262032,0.9411764705882352,2.9333333333333327,"Gender=Female, Steps_bin=High",Stress_bin=High
+0.0855614973262032,0.9411764705882352,2.9333333333333327,"Activity_bin=High, Steps_bin=High",Stress_bin=High
+0.2647058823529412,0.8839285714285715,2.9255689001264225,"Gender=Male, SleepDuration_bin=Long",Stress_bin=Medium
+0.06417112299465241,0.6666666666666667,2.8659003831417627,"Sleep Disorder=None, Stress_bin=High",Steps_bin=Low
+0.08823529411764706,0.9166666666666667,2.8569444444444447,"Quality_bin=Medium, Sleep Disorder=Sleep Apnea",Stress_bin=High
+0.10427807486631016,0.9069767441860465,2.8267441860465112,"Activity_bin=Low, SleepDuration_bin=Normal",Stress_bin=High
+0.16042780748663102,0.8450704225352113,2.796958743612115,"Activity_bin=High, Sleep Disorder=None",Stress_bin=Medium
+0.0855614973262032,0.8888888888888888,2.77037037037037,"Activity_bin=Low, Quality_bin=Medium",Stress_bin=High
+0.10160427807486631,0.8837209302325582,2.7542635658914727,"Age_bin=Young, SleepDuration_bin=Normal",Stress_bin=High
+0.1657754010695187,0.8266666666666667,2.736047197640118,"Gender=Male, Quality_bin=Good",Stress_bin=Medium
+0.09090909090909091,1.0,2.710144927536232,"Gender=Female, Steps_bin=High",Activity_bin=High
+0.09090909090909091,1.0,2.710144927536232,"BMI Category=Overweight, Quality_bin=Good",Activity_bin=High
+0.08823529411764706,1.0,2.710144927536232,"Age_bin=Old, Sleep Disorder=Sleep Apnea",Activity_bin=High
+0.0855614973262032,1.0,2.710144927536232,"BMI Category=Overweight, Steps_bin=High",Activity_bin=High
+0.07754010695187166,1.0,2.710144927536232,"Sleep Disorder=Sleep Apnea, Steps_bin=High",Activity_bin=High
+0.07754010695187166,1.0,2.710144927536232,"Age_bin=Middle, Steps_bin=High",Activity_bin=High
+0.0962566844919786,0.8571428571428571,2.6714285714285713,"BMI Category=Overweight, Gender=Male",Stress_bin=High
+0.09358288770053476,0.853658536585366,2.660569105691057,"Gender=Male, Sleep Disorder=Insomnia",Stress_bin=High
+0.17647058823529413,1.0,2.652482269503546,"Age_bin=Old, Quality_bin=Good",Stress_bin=Low
+0.11229946524064172,1.0,2.652482269503546,"Quality_bin=Good, Steps_bin=Low",Stress_bin=Low
+0.09090909090909091,1.0,2.652482269503546,"BMI Category=Overweight, Quality_bin=Good",Stress_bin=Low
+0.08823529411764706,1.0,2.652482269503546,"Age_bin=Old, Steps_bin=Low",Stress_bin=Low
+0.0855614973262032,1.0,2.652482269503546,"Activity_bin=Low, SleepDuration_bin=Long",Stress_bin=Low
+0.0855614973262032,1.0,2.652482269503546,"Activity_bin=Low, Quality_bin=Good",Stress_bin=Low
+0.08288770053475936,1.0,2.652482269503546,"Activity_bin=Low, Age_bin=Old",Stress_bin=Low
+0.0855614973262032,0.9696969696969696,2.6280193236714977,"Sleep Disorder=Sleep Apnea, Stress_bin=Low",Activity_bin=High
+0.17647058823529413,0.9850746268656717,2.612892981899016,"Age_bin=Old, SleepDuration_bin=Long",Stress_bin=Low
+0.27540106951871657,0.9809523809523809,2.6019587977034786,"Gender=Female, Quality_bin=Good",Stress_bin=Low
+0.08021390374331551,0.8333333333333334,2.5972222222222223,"Age_bin=Middle, Sleep Disorder=Sleep Apnea",Stress_bin=High
+0.0962566844919786,0.7826086956521738,2.590227010388611,"Age_bin=Young, SleepDuration_bin=Long",Stress_bin=Medium
+0.07754010695187166,0.8285714285714286,2.5823809523809524,"Quality_bin=Medium, Steps_bin=Low",Stress_bin=High
+0.09358288770053476,0.9722222222222222,2.578802206461781,"Age_bin=Old, Sleep Disorder=None",Stress_bin=Low
+0.18716577540106952,0.6481481481481481,2.578802206461781,"Gender=Male, Quality_bin=Medium",Age_bin=Young
+0.08823529411764706,0.9705882352941176,2.574468085106383,"Age_bin=Old, BMI Category=Normal",Stress_bin=Low
+0.09090909090909091,0.9444444444444445,2.559581320450886,Steps_bin=High,Activity_bin=High
+0.09090909090909091,0.9444444444444445,2.559581320450886,"BMI Category=Overweight, SleepDuration_bin=Long",Activity_bin=High
+0.09090909090909091,0.9444444444444445,2.559581320450886,"HR_bin=Normal, Steps_bin=High",Activity_bin=High
+0.08823529411764706,0.942857142857143,2.5552795031055906,"Quality_bin=Good, Sleep Disorder=Sleep Apnea",Activity_bin=High
+0.27540106951871657,0.9626168224299065,2.5533240538211706,"Gender=Female, SleepDuration_bin=Long",Stress_bin=Low
+0.0855614973262032,0.9411764705882352,2.550724637681159,"Quality_bin=Medium, Steps_bin=High",Activity_bin=High
+0.0855614973262032,0.9411764705882352,2.550724637681159,"Steps_bin=High, Stress_bin=High",Activity_bin=High
+0.0855614973262032,0.9411764705882352,2.550724637681159,"BP_bin=High, Steps_bin=High",Activity_bin=High
+0.08288770053475936,0.9393939393939393,2.5458937198067635,"SleepDuration_bin=Normal, Steps_bin=High",Activity_bin=High
+0.10427807486631016,0.7647058823529412,2.530973451327434,"Age_bin=Young, Steps_bin=Medium",Stress_bin=Medium
+0.08823529411764706,1.0,2.5270270270270268,"Age_bin=Old, Sleep Disorder=Sleep Apnea",BMI Category=Overweight
+0.0855614973262032,1.0,2.5270270270270268,"Activity_bin=High, Stress_bin=High",BMI Category=Overweight
+0.08288770053475936,1.0,2.5270270270270268,"Activity_bin=High, SleepDuration_bin=Normal",BMI Category=Overweight
+0.07754010695187166,1.0,2.5270270270270268,"Sleep Disorder=Sleep Apnea, Steps_bin=High",BMI Category=Overweight
+0.07754010695187166,1.0,2.5270270270270268,"Age_bin=Middle, Steps_bin=High",BMI Category=Overweight
+0.06684491978609626,1.0,2.5270270270270268,"SleepDuration_bin=Normal, Stress_bin=Low",BMI Category=Overweight
+0.06684491978609626,1.0,2.5270270270270268,"Quality_bin=Medium, Stress_bin=Low",BMI Category=Overweight
+0.09893048128342247,0.9487179487179488,2.5164575377341336,"BP_bin=Normal, Gender=Female",Stress_bin=Low
+0.1711229946524064,1.0,2.51006711409396,"BMI Category=Overweight, Sleep Disorder=Insomnia",SleepDuration_bin=Normal
+0.11764705882352941,1.0,2.51006711409396,"Activity_bin=Moderate, Stress_bin=High",SleepDuration_bin=Normal
+0.10160427807486631,1.0,2.51006711409396,"BMI Category=Normal, Stress_bin=High",SleepDuration_bin=Normal
+0.0962566844919786,1.0,2.51006711409396,"Sleep Disorder=None, Stress_bin=High",SleepDuration_bin=Normal
+0.0962566844919786,1.0,2.51006711409396,"Activity_bin=Low, Quality_bin=Medium",SleepDuration_bin=Normal
+0.06684491978609626,1.0,2.51006711409396,"Quality_bin=Medium, Stress_bin=Low",SleepDuration_bin=Normal
+0.08823529411764706,0.8048780487804879,2.508536585365854,"Age_bin=Young, Steps_bin=Low",Stress_bin=High
+0.09090909090909091,0.9444444444444445,2.505122143420016,"BMI Category=Overweight, SleepDuration_bin=Long",Stress_bin=Low
+0.16310160427807488,0.9242424242424243,2.5048309178743966,"HR_bin=Normal, Sleep Disorder=Sleep Apnea",Activity_bin=High
+0.08823529411764706,0.942857142857143,2.5009118541033435,"Quality_bin=Good, Sleep Disorder=Sleep Apnea",Stress_bin=Low
+0.17914438502673796,0.9852941176470588,2.4898648648648645,"Age_bin=Middle, Stress_bin=High",BMI Category=Overweight
+0.28609625668449196,0.9907407407407407,2.486825751926423,"Quality_bin=Medium, Stress_bin=High",SleepDuration_bin=Normal
+0.2807486631016043,0.9905660377358491,2.486387235659111,"HR_bin=Normal, Stress_bin=High",SleepDuration_bin=Normal
+0.2540106951871658,0.9793814432989693,2.474923376985233,"Age_bin=Middle, SleepDuration_bin=Normal",BMI Category=Overweight
+0.17914438502673796,0.9852941176470588,2.4731543624161074,"Age_bin=Middle, Stress_bin=High",SleepDuration_bin=Normal
+0.09893048128342247,0.9736842105263158,2.4605263157894735,"Age_bin=Old, Steps_bin=Medium",BMI Category=Overweight
+0.15775401069518716,0.9076923076923077,2.4599777034559644,"BMI Category=Overweight, Sleep Disorder=Sleep Apnea",Activity_bin=High
+0.09893048128342247,0.925,2.4535460992907803,"BP_bin=Normal, SleepDuration_bin=Long",Stress_bin=Low
+0.09893048128342247,0.925,2.4535460992907803,"BP_bin=Normal, Quality_bin=Good",Stress_bin=Low
+0.11497326203208556,0.9772727272727273,2.453020134228188,"Sleep Disorder=Insomnia, Stress_bin=High",SleepDuration_bin=Normal
+0.09358288770053476,0.9210526315789473,2.4430757745427396,"Activity_bin=High, Age_bin=Old",Stress_bin=Low
+0.18983957219251338,0.9726027397260274,2.4412981520639883,"Activity_bin=Moderate, BMI Category=Overweight",SleepDuration_bin=Normal
+0.28342245989304815,0.9724770642201835,2.4409826981097225,"BMI Category=Overweight, Quality_bin=Medium",SleepDuration_bin=Normal
+0.0962566844919786,0.7826086956521738,2.4391304347826086,"Sleep Disorder=None, SleepDuration_bin=Normal",Stress_bin=High
+0.08823529411764706,0.9705882352941176,2.436241610738255,"Quality_bin=Medium, Steps_bin=High",SleepDuration_bin=Normal
+0.08823529411764706,0.9705882352941176,2.436241610738255,"Steps_bin=High, Stress_bin=High",SleepDuration_bin=Normal
+0.08823529411764706,0.9705882352941176,2.436241610738255,"BP_bin=High, Steps_bin=High",SleepDuration_bin=Normal
+0.1711229946524064,0.9696969696969696,2.4340044742729305,"Quality_bin=Medium, Sleep Disorder=Insomnia",SleepDuration_bin=Normal
+0.08288770053475936,0.96875,2.4316275167785237,"BMI Category=Overweight, Steps_bin=High",SleepDuration_bin=Normal
+0.08288770053475936,0.96875,2.4316275167785237,"Activity_bin=High, Stress_bin=High",SleepDuration_bin=Normal
+0.08823529411764706,0.9166666666666667,2.431442080378251,"Age_bin=Middle, BP_bin=Normal",Stress_bin=Low
+0.09090909090909091,0.8947368421052632,2.4248665141113657,"Sleep Disorder=Sleep Apnea, SleepDuration_bin=Long",Activity_bin=High
+0.18983957219251338,0.9594594594594594,2.424579985390796,"Gender=Female, Quality_bin=Medium",BMI Category=Overweight
+0.0748663101604278,0.9655172413793102,2.4235130756769263,"Sleep Disorder=Sleep Apnea, Steps_bin=High",SleepDuration_bin=Normal
+0.0748663101604278,0.9655172413793102,2.4235130756769263,"Age_bin=Middle, Steps_bin=High",SleepDuration_bin=Normal
+0.11229946524064172,0.9130434782608695,2.4218316373728026,"SleepDuration_bin=Long, Steps_bin=Low",Stress_bin=Low
+0.20053475935828877,0.9615384615384616,2.4135260712441924,"BMI Category=Overweight, Stress_bin=High",SleepDuration_bin=Normal
+0.08021390374331551,0.9090909090909091,2.4113475177304964,"Age_bin=Old, Sleep Disorder=Sleep Apnea",Stress_bin=Low
+0.2540106951871658,0.9595959595959597,2.4086502609992544,"Age_bin=Middle, BMI Category=Overweight",SleepDuration_bin=Normal
+0.18983957219251338,0.9594594594594594,2.408307636495556,"Gender=Female, Quality_bin=Medium",SleepDuration_bin=Normal
+0.18983957219251338,0.9594594594594594,2.408307636495556,"Gender=Male, Stress_bin=High",SleepDuration_bin=Normal
+0.2807486631016043,0.7720588235294118,2.40625,"HR_bin=Normal, SleepDuration_bin=Normal",Stress_bin=High
+0.12032085561497326,0.9574468085106382,2.40325574753677,"Steps_bin=Medium, Stress_bin=High",SleepDuration_bin=Normal
+0.2540106951871658,0.95,2.4006756756756755,"Age_bin=Middle, Quality_bin=Medium",BMI Category=Overweight
+0.06684491978609626,1.0,2.3974358974358974,"SleepDuration_bin=Normal, Stress_bin=Low",Activity_bin=Moderate
+0.06684491978609626,1.0,2.3974358974358974,"Quality_bin=Medium, Stress_bin=Low",Activity_bin=Moderate
+0.0962566844919786,0.9473684210526315,2.39402560455192,"Activity_bin=High, Age_bin=Old",BMI Category=Overweight
+0.09893048128342247,0.902439024390244,2.3937035115032006,BP_bin=Normal,Stress_bin=Low
+0.09893048128342247,0.902439024390244,2.3937035115032006,"BMI Category=Normal, BP_bin=Normal",Stress_bin=Low
+0.09893048128342247,0.902439024390244,2.3937035115032006,"BP_bin=Normal, HR_bin=Normal",Stress_bin=Low
+0.18983957219251338,0.9466666666666668,2.3922522522522525,"Activity_bin=Moderate, SleepDuration_bin=Normal",BMI Category=Overweight
+0.15775401069518716,0.8805970149253731,2.3865455332035475,"Gender=Female, Sleep Disorder=Sleep Apnea",Activity_bin=High
+0.3048128342245989,0.95,2.3845637583892616,Stress_bin=High,SleepDuration_bin=Normal
+0.3048128342245989,0.7651006711409396,2.3845637583892616,SleepDuration_bin=Normal,Stress_bin=High
+0.30213903743315507,0.9495798319327731,2.383509108341323,"BP_bin=High, Stress_bin=High",SleepDuration_bin=Normal
+0.18716577540106952,0.8974358974358975,2.380432805964721,"BMI Category=Normal, Gender=Female",Stress_bin=Low
+0.09358288770053476,0.8974358974358975,2.380432805964721,"BP_bin=Normal, Sleep Disorder=None",Stress_bin=Low
+0.09358288770053476,0.8974358974358975,2.380432805964721,"BP_bin=Normal, Steps_bin=Medium",Stress_bin=Low
+0.30213903743315507,0.7635135135135134,2.3796171171171165,"BP_bin=High, SleepDuration_bin=Normal",Stress_bin=High
+0.1711229946524064,0.9411764705882352,2.378378378378378,"Sleep Disorder=Insomnia, SleepDuration_bin=Normal",BMI Category=Overweight
+0.0855614973262032,0.9411764705882352,2.378378378378378,"Gender=Female, Steps_bin=High",BMI Category=Overweight
+0.0855614973262032,0.9411764705882352,2.378378378378378,"Quality_bin=Medium, Steps_bin=High",BMI Category=Overweight
+0.0855614973262032,0.9411764705882352,2.378378378378378,"Steps_bin=High, Stress_bin=High",BMI Category=Overweight
+0.0855614973262032,0.9411764705882352,2.378378378378378,"Activity_bin=High, Steps_bin=High",BMI Category=Overweight
+0.0855614973262032,0.9411764705882352,2.378378378378378,"BP_bin=High, Steps_bin=High",BMI Category=Overweight
+0.16844919786096257,0.9402985074626866,2.376159741831384,"Gender=Female, Sleep Disorder=Sleep Apnea",BMI Category=Overweight
+0.1657754010695187,0.9393939393939393,2.3738738738738734,"Quality_bin=Medium, Sleep Disorder=Insomnia",BMI Category=Overweight
+0.08288770053475936,0.9393939393939393,2.3738738738738734,"SleepDuration_bin=Normal, Steps_bin=High",BMI Category=Overweight
+0.09090909090909091,0.9444444444444445,2.37061894108874,"Gender=Female, Sleep Disorder=Insomnia",SleepDuration_bin=Normal
+0.15775401069518716,0.9365079365079364,2.366580866580866,"Activity_bin=Moderate, Sleep Disorder=Insomnia",BMI Category=Overweight
+0.15775401069518716,0.9365079365079364,2.366580866580866,"Activity_bin=High, Sleep Disorder=Sleep Apnea",BMI Category=Overweight
+0.25133689839572193,0.94,2.359463087248322,"Age_bin=Middle, Quality_bin=Medium",SleepDuration_bin=Normal
+0.18716577540106952,0.9333333333333333,2.3585585585585584,"Gender=Female, SleepDuration_bin=Normal",BMI Category=Overweight
+0.0855614973262032,0.8888888888888888,2.3577620173364853,"Activity_bin=Moderate, BP_bin=Normal",Stress_bin=Low
+0.10962566844919786,0.9318181818181818,2.3547297297297294,"Activity_bin=Moderate, Stress_bin=High",BMI Category=Overweight
+0.15775401069518716,0.9365079365079364,2.3506977735165653,"Activity_bin=Moderate, Sleep Disorder=Insomnia",SleepDuration_bin=Normal
+0.28609625668449196,0.7535211267605633,2.3484741784037553,"Quality_bin=Medium, SleepDuration_bin=Normal",Stress_bin=High
+0.17379679144385027,0.9285714285714286,2.3465250965250966,"Activity_bin=High, Gender=Female",BMI Category=Overweight
+0.11497326203208556,0.9347826086956521,2.346367084913919,"Gender=Female, Stress_bin=High",SleepDuration_bin=Normal
+0.16310160427807488,0.9242424242424243,2.3355855855855854,"HR_bin=Normal, Sleep Disorder=Sleep Apnea",BMI Category=Overweight
+0.16042780748663102,0.9230769230769231,2.3326403326403327,"Sleep Disorder=Insomnia, Steps_bin=Medium",BMI Category=Overweight
+0.10427807486631016,0.9285714285714285,2.3307766059443913,"BMI Category=Overweight, Gender=Male",SleepDuration_bin=Normal
+0.1925133689839572,0.8780487804878049,2.3290088220031135,"Gender=Female, Sleep Disorder=None",Stress_bin=Low
+0.06149732620320856,0.92,2.324864864864865,"Sleep Disorder=Insomnia, Stress_bin=Low",BMI Category=Overweight
+0.0962566844919786,0.8571428571428571,2.3229813664596275,"Age_bin=Old, BMI Category=Overweight",Activity_bin=High
+0.09893048128342247,0.925,2.321812080536913,"Activity_bin=Low, Gender=Male",SleepDuration_bin=Normal
+0.16042780748663102,0.9230769230769231,2.3169850283944244,"Sleep Disorder=Insomnia, Steps_bin=Medium",SleepDuration_bin=Normal
+0.0962566844919786,0.923076923076923,2.3169850283944244,"Steps_bin=Low, Stress_bin=High",SleepDuration_bin=Normal
+0.0855614973262032,0.9142857142857143,2.31042471042471,"Sleep Disorder=Sleep Apnea, SleepDuration_bin=Normal",BMI Category=Overweight
+0.06149732620320856,0.92,2.309261744966443,"Sleep Disorder=Insomnia, Stress_bin=Low",SleepDuration_bin=Normal
+0.11229946524064172,0.9130434782608695,2.3072855464159807,"Gender=Female, Stress_bin=High",BMI Category=Overweight
+0.17647058823529413,0.868421052631579,2.303471444568869,Age_bin=Old,Stress_bin=Low
+0.17647058823529413,0.868421052631579,2.303471444568869,"Age_bin=Old, Gender=Female",Stress_bin=Low
+0.17647058823529413,0.868421052631579,2.303471444568869,"Age_bin=Old, HR_bin=Normal",Stress_bin=Low
+0.08823529411764706,0.868421052631579,2.303471444568869,"Sleep Disorder=Sleep Apnea, SleepDuration_bin=Long",Stress_bin=Low
+0.06417112299465241,0.9600000000000001,2.3015384615384615,"Sleep Disorder=Insomnia, Stress_bin=Low",Activity_bin=Moderate
+0.08823529411764706,0.9166666666666667,2.30089485458613,Steps_bin=High,SleepDuration_bin=Normal
+0.08823529411764706,0.9166666666666667,2.30089485458613,"HR_bin=Normal, Steps_bin=High",SleepDuration_bin=Normal
+0.08021390374331551,0.9090909090909091,2.297297297297297,"Sleep Disorder=Sleep Apnea, Stress_bin=Low",BMI Category=Overweight
+0.20053475935828877,0.9146341463414634,2.29579309215911,"Activity_bin=Moderate, Quality_bin=Medium",SleepDuration_bin=Normal
+0.1711229946524064,0.8648648648648648,2.294038719570634,"Age_bin=Old, BP_bin=High",Stress_bin=Low
+0.16844919786096257,0.9130434782608696,2.2918004085205723,"HR_bin=Normal, Sleep Disorder=Insomnia",SleepDuration_bin=Normal
+0.08288770053475936,0.9117647058823529,2.2885906040268456,"Gender=Female, Steps_bin=High",SleepDuration_bin=Normal
+0.08288770053475936,0.9117647058823529,2.2885906040268456,"Activity_bin=High, Steps_bin=High",SleepDuration_bin=Normal
+0.08823529411764706,0.7333333333333334,2.285555555555556,"Gender=Male, Steps_bin=Low",Stress_bin=High
+0.2620320855614973,0.6901408450704225,2.284182973949894,"Gender=Male, Steps_bin=Medium",Stress_bin=Medium
+0.1657754010695187,0.8985507246376812,2.27066196631414,"HR_bin=Normal, Sleep Disorder=Insomnia",BMI Category=Overweight
+0.18716577540106952,0.8974358974358975,2.267844767844768,"SleepDuration_bin=Normal, Steps_bin=Medium",BMI Category=Overweight
+0.09090909090909091,0.9444444444444445,2.2642450142450143,"Age_bin=Middle, BP_bin=Normal",Activity_bin=Moderate
+0.08021390374331551,0.8333333333333334,2.2584541062801935,"Quality_bin=Medium, Sleep Disorder=Sleep Apnea",Activity_bin=High
+0.08021390374331551,0.8333333333333334,2.2584541062801935,"Sleep Disorder=Sleep Apnea, Steps_bin=Medium",Activity_bin=High
+0.15508021390374332,0.8923076923076924,2.254885654885655,"Age_bin=Middle, Sleep Disorder=Insomnia",BMI Category=Overweight
+0.25133689839572193,0.6811594202898551,2.254456842375273,"BMI Category=Normal, Gender=Male",Stress_bin=Medium
+0.19518716577540107,0.8902439024390244,2.2496704021094263,"Activity_bin=Moderate, Quality_bin=Medium",BMI Category=Overweight
+0.0855614973262032,0.8888888888888888,2.246246246246246,Steps_bin=High,BMI Category=Overweight
+0.0855614973262032,0.8888888888888888,2.246246246246246,"Gender=Female, Sleep Disorder=Insomnia",BMI Category=Overweight
+0.0855614973262032,0.8888888888888888,2.246246246246246,"Quality_bin=Medium, Sleep Disorder=Sleep Apnea",BMI Category=Overweight
+0.0855614973262032,0.8888888888888888,2.246246246246246,"HR_bin=Normal, Steps_bin=High",BMI Category=Overweight
+0.18181818181818182,0.8947368421052632,2.245849523136701,"BP_bin=High, Sleep Disorder=Insomnia",SleepDuration_bin=Normal
+0.10427807486631016,0.8863636363636364,2.2398648648648645,"Sleep Disorder=Insomnia, Stress_bin=High",BMI Category=Overweight
+0.15508021390374332,0.8923076923076924,2.2397521941146104,"Age_bin=Middle, Sleep Disorder=Insomnia",SleepDuration_bin=Normal
+0.24598930481283424,0.8440366972477065,2.238792374259874,"Gender=Female, Steps_bin=Medium",Stress_bin=Low
+0.2620320855614973,0.6758620689655173,2.2369240158681722,"BMI Category=Normal, Steps_bin=Medium",Stress_bin=Medium
+0.0855614973262032,0.8888888888888888,2.2311707680835196,"Quality_bin=Medium, Sleep Disorder=Sleep Apnea",SleepDuration_bin=Normal
+0.10427807486631016,0.8863636363636364,2.224832214765101,"Activity_bin=Low, Stress_bin=High",SleepDuration_bin=Normal
+0.0855614973262032,0.8205128205128205,2.223708658491267,"Quality_bin=Medium, SleepDuration_bin=Long",Activity_bin=High
+0.08288770053475936,0.8857142857142857,2.22320230105465,"Quality_bin=Medium, Steps_bin=Low",SleepDuration_bin=Normal
+0.24598930481283424,0.6715328467153284,2.222595439571087,"Gender=Male, Sleep Disorder=None",Stress_bin=Medium
+0.10160427807486631,0.8837209302325582,2.218198845013267,"Age_bin=Young, Stress_bin=High",SleepDuration_bin=Normal
+0.10160427807486631,0.8837209302325582,2.218198845013267,"Activity_bin=Low, Age_bin=Young",SleepDuration_bin=Normal
+0.16844919786096257,0.8181818181818182,2.217391304347826,"BP_bin=High, Sleep Disorder=Sleep Apnea",Activity_bin=High
+0.18181818181818182,0.8831168831168832,2.2166826462128477,Sleep Disorder=Insomnia,SleepDuration_bin=Normal
+0.16310160427807488,0.9242424242424243,2.215811965811966,"Quality_bin=Medium, Sleep Disorder=Insomnia",Activity_bin=Moderate
+0.16042780748663102,0.9230769230769231,2.21301775147929,"Sleep Disorder=Insomnia, Steps_bin=Medium",Activity_bin=Moderate
+0.03208556149732621,0.9230769230769231,2.21301775147929,"Age_bin=Young, Quality_bin=Good",Activity_bin=Moderate
+0.0962566844919786,0.923076923076923,2.2130177514792897,"BP_bin=Normal, Steps_bin=Medium",Activity_bin=Moderate
+0.09358288770053476,0.875,2.2111486486486487,"Sleep Disorder=Sleep Apnea, Stress_bin=High",BMI Category=Overweight
+0.08288770053475936,0.8157894736842105,2.2109077040427154,"Age_bin=Old, Steps_bin=Medium",Activity_bin=High
+0.15775401069518716,0.921875,2.210136217948718,"BMI Category=Overweight, Sleep Disorder=Insomnia",Activity_bin=Moderate
+0.09358288770053476,0.875,2.196308724832215,"Sleep Disorder=Sleep Apnea, Stress_bin=High",SleepDuration_bin=Normal
+0.16844919786096257,0.8076923076923077,2.188963210702341,Sleep Disorder=Sleep Apnea,Activity_bin=High
+0.07754010695187166,0.8055555555555556,2.1831723027375203,"Age_bin=Middle, Sleep Disorder=Sleep Apnea",Activity_bin=High
+0.15775401069518716,0.9076923076923077,2.1761341222879684,"Age_bin=Middle, Stress_bin=Low",Activity_bin=Moderate
+0.08288770053475936,0.8611111111111112,2.176051051051051,"Sleep Disorder=Sleep Apnea, Steps_bin=Medium",BMI Category=Overweight
+0.0748663101604278,0.7999999999999999,2.1681159420289853,"Sleep Disorder=Sleep Apnea, SleepDuration_bin=Normal",Activity_bin=High
+0.08021390374331551,0.8571428571428572,2.166023166023166,"Quality_bin=Good, Sleep Disorder=Sleep Apnea",BMI Category=Overweight
+0.08288770053475936,0.8157894736842105,2.163867114594998,"Age_bin=Old, Steps_bin=Medium",Stress_bin=Low
+0.2620320855614973,0.6533333333333333,2.1623598820059,"Sleep Disorder=None, Steps_bin=Medium",Stress_bin=Medium
+0.17914438502673796,0.6907216494845361,2.1527491408934707,"Age_bin=Middle, SleepDuration_bin=Normal",Stress_bin=High
+0.17379679144385027,0.65,2.151327433628319,"Activity_bin=High, Steps_bin=Medium",Stress_bin=Medium
+0.10695187165775401,0.851063829787234,2.15066129959747,"Steps_bin=Medium, Stress_bin=High",BMI Category=Overweight
+0.09090909090909091,0.8095238095238095,2.1472475515028706,"Gender=Female, Steps_bin=Low",Stress_bin=Low
+0.20053475935828877,0.6880733944954128,2.1444954128440368,"BMI Category=Overweight, SleepDuration_bin=Normal",Stress_bin=High
+0.07754010695187166,0.8055555555555556,2.13672182821119,"Sleep Disorder=Sleep Apnea, Steps_bin=Medium",Stress_bin=Low
+0.17379679144385027,0.8441558441558442,2.1332046332046333,"BP_bin=High, Sleep Disorder=Sleep Apnea",BMI Category=Overweight
+0.1711229946524064,0.8421052631578947,2.1280227596017065,"BP_bin=High, Sleep Disorder=Insomnia",BMI Category=Overweight
+0.0855614973262032,0.7999999999999999,2.121985815602837,"Activity_bin=Low, Gender=Female",Stress_bin=Low
+0.0855614973262032,0.7804878048780488,2.1152350653941325,"Age_bin=Young, Stress_bin=Medium",Activity_bin=High
+0.17914438502673796,0.6767676767676767,2.109259259259259,"Age_bin=Middle, BMI Category=Overweight",Stress_bin=High
+0.17379679144385027,0.8333333333333334,2.105855855855856,Sleep Disorder=Sleep Apnea,BMI Category=Overweight
+0.08021390374331551,0.8333333333333334,2.105855855855856,"Age_bin=Middle, Sleep Disorder=Sleep Apnea",BMI Category=Overweight
+0.0962566844919786,0.8780487804878049,2.1050656660412757,BP_bin=Normal,Activity_bin=Moderate
+0.0962566844919786,0.8780487804878049,2.1050656660412757,"BMI Category=Normal, BP_bin=Normal",Activity_bin=Moderate
+0.0962566844919786,0.8780487804878049,2.1050656660412757,"BP_bin=Normal, HR_bin=Normal",Activity_bin=Moderate
+0.15240641711229946,0.8769230769230769,2.1023668639053255,"Age_bin=Middle, Sleep Disorder=Insomnia",Activity_bin=Moderate
+0.1711229946524064,0.8311688311688311,2.1003861003861,Sleep Disorder=Insomnia,BMI Category=Overweight
+0.09358288770053476,0.875,2.09775641025641,"BP_bin=Normal, SleepDuration_bin=Long",Activity_bin=Moderate
+0.09358288770053476,0.875,2.09775641025641,"BP_bin=Normal, Quality_bin=Good",Activity_bin=Moderate
+0.09090909090909091,0.8292682926829269,2.095583388266315,"Activity_bin=High, Stress_bin=Low",BMI Category=Overweight
+0.18181818181818182,0.8717948717948718,2.0900723208415517,"SleepDuration_bin=Normal, Steps_bin=Medium",Activity_bin=Moderate
+0.09090909090909091,0.8717948717948718,2.0900723208415517,"BP_bin=Normal, Gender=Female",Activity_bin=Moderate
+0.09090909090909091,0.8717948717948718,2.0900723208415517,"BP_bin=Normal, Sleep Disorder=None",Activity_bin=Moderate
+0.19518716577540107,0.6697247706422018,2.087308868501529,"BMI Category=Overweight, Quality_bin=Medium",Stress_bin=High
+0.16042780748663102,0.8695652173913044,2.0847268673355632,"HR_bin=Normal, Sleep Disorder=Insomnia",Activity_bin=Moderate
+0.08823529411764706,0.7857142857142857,2.084093211752786,"Age_bin=Old, BMI Category=Overweight",Stress_bin=Low
+0.09090909090909091,0.8292682926829269,2.0815190702242594,"Gender=Male, Sleep Disorder=Insomnia",SleepDuration_bin=Normal
+0.15775401069518716,0.8676470588235293,2.080128205128205,"Sleep Disorder=Insomnia, SleepDuration_bin=Normal",Activity_bin=Moderate
+0.31016042780748665,1.0,2.077777777777778,"SleepDuration_bin=Long, Stress_bin=Low",Quality_bin=Good
+0.21390374331550802,1.0,2.077777777777778,"BMI Category=Normal, Stress_bin=Low",Quality_bin=Good
+0.17647058823529413,1.0,2.077777777777778,"Age_bin=Old, Stress_bin=Low",Quality_bin=Good
+0.11229946524064172,1.0,2.077777777777778,"Steps_bin=Low, Stress_bin=Low",Quality_bin=Good
+0.10962566844919786,1.0,2.077777777777778,"Activity_bin=High, Stress_bin=Low",Quality_bin=Good
+0.10695187165775401,1.0,2.077777777777778,"BP_bin=Normal, SleepDuration_bin=Long",Quality_bin=Good
+0.10427807486631016,1.0,2.077777777777778,"BP_bin=Normal, Gender=Female",Quality_bin=Good
+0.09893048128342247,1.0,2.077777777777778,"BP_bin=Normal, Stress_bin=Low",Quality_bin=Good
+0.08823529411764706,1.0,2.077777777777778,"Sleep Disorder=Sleep Apnea, Stress_bin=Low",Quality_bin=Good
+0.08823529411764706,1.0,2.077777777777778,"Age_bin=Old, Steps_bin=Low",Quality_bin=Good
+0.0855614973262032,1.0,2.077777777777778,"Activity_bin=Low, SleepDuration_bin=Long",Quality_bin=Good
+0.0855614973262032,1.0,2.077777777777778,"Activity_bin=Low, Stress_bin=Low",Quality_bin=Good
+0.08288770053475936,1.0,2.077777777777778,"Activity_bin=Low, Age_bin=Old",Quality_bin=Good
+0.034759358288770054,1.0,2.077777777777778,"Gender=Male, Stress_bin=Low",Quality_bin=Good
+0.0855614973262032,0.8648648648648648,2.0734580734580734,"BP_bin=Normal, Stress_bin=Low",Activity_bin=Moderate
+0.17647058823529413,0.6226415094339622,2.0607780931708133,"Age_bin=Middle, SleepDuration_bin=Long",Stress_bin=Medium
+0.20855614973262032,1.0,2.0549450549450547,"SleepDuration_bin=Normal, Steps_bin=Medium",Quality_bin=Medium
+0.20053475935828877,1.0,2.0549450549450547,"Activity_bin=Moderate, SleepDuration_bin=Normal",Quality_bin=Medium
+0.19518716577540107,1.0,2.0549450549450547,"Activity_bin=Moderate, BMI Category=Overweight",Quality_bin=Medium
+0.12299465240641712,1.0,2.0549450549450547,"Sleep Disorder=None, SleepDuration_bin=Normal",Quality_bin=Medium
+0.11764705882352941,1.0,2.0549450549450547,"Activity_bin=Moderate, Stress_bin=High",Quality_bin=Medium
+0.0962566844919786,1.0,2.0549450549450547,"Sleep Disorder=None, Stress_bin=High",Quality_bin=Medium
+0.09090909090909091,1.0,2.0549450549450547,"Steps_bin=High, Stress_bin=High",Quality_bin=Medium
+0.09090909090909091,1.0,2.0549450549450547,"BP_bin=High, Steps_bin=High",Quality_bin=Medium
+0.08823529411764706,1.0,2.0549450549450547,"SleepDuration_bin=Normal, Steps_bin=High",Quality_bin=Medium
+0.0855614973262032,1.0,2.0549450549450547,"BMI Category=Overweight, Steps_bin=High",Quality_bin=Medium
+0.0855614973262032,1.0,2.0549450549450547,"Activity_bin=High, Stress_bin=High",Quality_bin=Medium
+0.08288770053475936,1.0,2.0549450549450547,"Activity_bin=High, SleepDuration_bin=Normal",Quality_bin=Medium
+0.07754010695187166,1.0,2.0549450549450547,"Sleep Disorder=Sleep Apnea, Steps_bin=High",Quality_bin=Medium
+0.07754010695187166,1.0,2.0549450549450547,"Age_bin=Middle, Steps_bin=High",Quality_bin=Medium
+0.06684491978609626,1.0,2.0549450549450547,"SleepDuration_bin=Normal, Stress_bin=Low",Quality_bin=Medium
+0.0962566844919786,0.8571428571428571,2.0549450549450547,"BMI Category=Overweight, Gender=Male",Activity_bin=Moderate
+0.1657754010695187,0.62,2.0520353982300885,"Age_bin=Middle, BMI Category=Normal",Stress_bin=Medium
+0.15508021390374332,0.7733333333333334,2.0512529550827425,"Activity_bin=Moderate, Gender=Female",Stress_bin=Low
+0.17647058823529413,0.9850746268656717,2.046766169154229,"Age_bin=Old, SleepDuration_bin=Long",Quality_bin=Good
+0.2807486631016043,0.9813084112149534,2.0389408099688477,"Gender=Female, SleepDuration_bin=Long",Quality_bin=Good
+0.2620320855614973,0.9799999999999999,2.036222222222222,"Age_bin=Middle, BMI Category=Normal",Quality_bin=Good
+0.17379679144385027,0.6132075471698113,2.029554182668225,"Activity_bin=High, SleepDuration_bin=Long",Stress_bin=Medium
+0.21657754010695188,0.9759036144578314,2.027710843373494,"Sleep Disorder=None, Stress_bin=Low",Quality_bin=Good
+0.10695187165775401,0.975609756097561,2.02710027100271,BP_bin=Normal,Quality_bin=Good
+0.10695187165775401,0.975609756097561,2.02710027100271,"BMI Category=Normal, BP_bin=Normal",Quality_bin=Good
+0.10695187165775401,0.975609756097561,2.02710027100271,"BP_bin=Normal, HR_bin=Normal",Quality_bin=Good
+0.17379679144385027,0.65,2.0258333333333334,"Age_bin=Middle, Quality_bin=Medium",Stress_bin=High
+0.3582887700534759,0.9852941176470588,2.0247252747252746,"HR_bin=Normal, SleepDuration_bin=Normal",Quality_bin=Medium
+0.10160427807486631,0.9743589743589743,2.0245014245014246,"BP_bin=Normal, Sleep Disorder=None",Quality_bin=Good
+0.10160427807486631,0.9743589743589743,2.0245014245014246,"BP_bin=Normal, Steps_bin=Medium",Quality_bin=Good
+0.07754010695187166,0.8055555555555556,2.02199850857569,"Age_bin=Middle, Sleep Disorder=Sleep Apnea",SleepDuration_bin=Normal
+0.20320855614973263,1.0,2.021621621621622,Age_bin=Old,Gender=Female
+0.20320855614973263,1.0,2.021621621621622,"Age_bin=Old, HR_bin=Normal",Gender=Female
+0.19786096256684493,1.0,2.021621621621622,"Age_bin=Old, BP_bin=High",Gender=Female
+0.17914438502673796,1.0,2.021621621621622,"Age_bin=Old, SleepDuration_bin=Long",Gender=Female
+0.17647058823529413,1.0,2.021621621621622,"Age_bin=Old, Quality_bin=Good",Gender=Female
+0.17647058823529413,1.0,2.021621621621622,"Age_bin=Old, Stress_bin=Low",Gender=Female
+0.11229946524064172,1.0,2.021621621621622,"Age_bin=Old, BMI Category=Overweight",Gender=Female
+0.10160427807486631,1.0,2.021621621621622,"Activity_bin=High, Age_bin=Old",Gender=Female
+0.10160427807486631,1.0,2.021621621621622,"Age_bin=Old, Steps_bin=Medium",Gender=Female
+0.09893048128342247,1.0,2.021621621621622,"BP_bin=Normal, Stress_bin=Low",Gender=Female
+0.0962566844919786,1.0,2.021621621621622,"Age_bin=Old, Sleep Disorder=None",Gender=Female
+0.09090909090909091,1.0,2.021621621621622,"Age_bin=Old, BMI Category=Normal",Gender=Female
+0.09090909090909091,1.0,2.021621621621622,"Activity_bin=High, Steps_bin=High",Gender=Female
+0.08823529411764706,1.0,2.021621621621622,"Age_bin=Old, Sleep Disorder=Sleep Apnea",Gender=Female
+0.08823529411764706,1.0,2.021621621621622,"Age_bin=Old, Steps_bin=Low",Gender=Female
+0.0855614973262032,1.0,2.021621621621622,"BMI Category=Overweight, Steps_bin=High",Gender=Female
+0.0855614973262032,1.0,2.021621621621622,"Activity_bin=Low, SleepDuration_bin=Long",Gender=Female
+0.0855614973262032,1.0,2.021621621621622,"Activity_bin=Low, Quality_bin=Good",Gender=Female
+0.0855614973262032,1.0,2.021621621621622,"Activity_bin=High, Stress_bin=High",Gender=Female
+0.0855614973262032,1.0,2.021621621621622,"Activity_bin=Low, Stress_bin=Low",Gender=Female
+0.08288770053475936,1.0,2.021621621621622,"Activity_bin=Low, Age_bin=Old",Gender=Female
+0.08288770053475936,1.0,2.021621621621622,"Activity_bin=High, SleepDuration_bin=Normal",Gender=Female
+0.07754010695187166,1.0,2.021621621621622,"Sleep Disorder=Sleep Apnea, Steps_bin=High",Gender=Female
+0.07754010695187166,1.0,2.021621621621622,"Age_bin=Middle, Steps_bin=High",Gender=Female
+0.06684491978609626,1.0,2.021621621621622,"Sleep Disorder=Insomnia, Stress_bin=Low",Gender=Female
+0.06684491978609626,1.0,2.021621621621622,"SleepDuration_bin=Normal, Stress_bin=Low",Gender=Female
+0.06684491978609626,1.0,2.021621621621622,"Quality_bin=Medium, Stress_bin=Low",Gender=Female
+0.09358288770053476,0.9722222222222222,2.0200617283950617,"Age_bin=Old, Sleep Disorder=None",Quality_bin=Good
+0.09358288770053476,0.9722222222222222,2.0200617283950617,"Age_bin=Middle, BP_bin=Normal",Quality_bin=Good
+0.09358288770053476,0.9722222222222222,2.0200617283950617,"Activity_bin=Moderate, BP_bin=Normal",Quality_bin=Good
+0.08823529411764706,0.9705882352941176,2.0166666666666666,"Age_bin=Old, BMI Category=Normal",Quality_bin=Good
+0.27807486631016043,0.981132075471698,2.016172506738544,"HR_bin=Normal, Stress_bin=High",Quality_bin=Medium
+0.16310160427807488,0.6039603960396039,1.998948567423114,"Age_bin=Middle, Quality_bin=Good",Stress_bin=Medium
+0.28342245989304815,0.9724770642201835,1.9983869341667508,"BMI Category=Overweight, SleepDuration_bin=Normal",Quality_bin=Medium
+0.08021390374331551,0.8333333333333334,1.9978632478632479,"Gender=Female, Sleep Disorder=Insomnia",Activity_bin=Moderate
+0.08021390374331551,0.7894736842105263,1.9950213371266001,"Sleep Disorder=Sleep Apnea, SleepDuration_bin=Long",BMI Category=Overweight
+0.0855614973262032,0.9696969696969696,1.9926739926739925,"Activity_bin=High, Age_bin=Young",Quality_bin=Medium
+0.25133689839572193,0.9690721649484537,1.9913900532457236,"Age_bin=Middle, SleepDuration_bin=Normal",Quality_bin=Medium
+0.17379679144385027,0.9848484848484848,1.9909909909909909,"Activity_bin=High, BMI Category=Overweight",Gender=Female
+0.1657754010695187,0.96875,1.990728021978022,"BMI Category=Overweight, Sleep Disorder=Insomnia",Quality_bin=Medium
+0.16310160427807488,0.9682539682539683,1.9897087039944183,"Activity_bin=Moderate, Sleep Disorder=Insomnia",Quality_bin=Medium
+0.10427807486631016,0.8297872340425532,1.9893617021276595,"Steps_bin=Medium, Stress_bin=High",Activity_bin=Moderate
+0.15508021390374332,0.9830508474576273,1.987356848373798,"BMI Category=Overweight, Stress_bin=Low",Gender=Female
+0.16844919786096257,0.6,1.9858407079646019,"Age_bin=Middle, Gender=Male",Stress_bin=Medium
+0.2700534759358289,0.9528301886792453,1.979769392033543,"Age_bin=Middle, SleepDuration_bin=Long",Quality_bin=Good
+0.17379679144385027,1.0,1.9788359788359788,"Activity_bin=High, Stress_bin=Medium",Gender=Male
+0.3582887700534759,0.788235294117647,1.9785234899328858,"HR_bin=Normal, Quality_bin=Medium",SleepDuration_bin=Normal
+0.0855614973262032,0.7804878048780488,1.972313777191826,"Gender=Male, Sleep Disorder=Insomnia",BMI Category=Overweight
+0.2540106951871658,0.9595959595959597,1.971916971916972,"Age_bin=Middle, BMI Category=Overweight",Quality_bin=Medium
+0.18983957219251338,0.9594594594594594,1.9716364716364716,"Gender=Male, SleepDuration_bin=Normal",Quality_bin=Medium
+0.10427807486631016,0.975,1.971081081081081,"BP_bin=Normal, SleepDuration_bin=Long",Gender=Female
+0.10427807486631016,0.975,1.971081081081081,"BP_bin=Normal, Quality_bin=Good",Gender=Female
+0.11497326203208556,0.6323529411764706,1.9708333333333332,"Sleep Disorder=Insomnia, SleepDuration_bin=Normal",Stress_bin=High
+0.12032085561497326,0.9574468085106382,1.967500584521861,"Steps_bin=Medium, Stress_bin=High",Quality_bin=Medium
+0.09358288770053476,0.9722222222222222,1.9654654654654655,"Age_bin=Middle, BP_bin=Normal",Gender=Female
+0.07754010695187166,0.7250000000000001,1.9648550724637686,"Sleep Disorder=Sleep Apnea, Stress_bin=High",Activity_bin=High
+0.17379679144385027,0.9558823529411764,1.9642857142857142,"Age_bin=Middle, Stress_bin=High",Quality_bin=Medium
+0.3422459893048128,0.7398843930635838,1.9625302340835484,"Gender=Female, HR_bin=Normal",Stress_bin=Low
+0.09090909090909091,0.9444444444444445,1.962345679012346,"BMI Category=Overweight, SleepDuration_bin=Long",Quality_bin=Good
+0.18181818181818182,0.6296296296296297,1.9623456790123457,"Gender=Male, Quality_bin=Medium",Stress_bin=High
+0.08823529411764706,0.9705882352941176,1.9621621621621623,"BMI Category=Overweight, Quality_bin=Good",Gender=Female
+0.16844919786096257,0.8181818181818182,1.9615384615384617,Sleep Disorder=Insomnia,Activity_bin=Moderate
+0.0962566844919786,0.8181818181818181,1.9615384615384615,"Sleep Disorder=Insomnia, Stress_bin=High",Activity_bin=Moderate
+0.16844919786096257,0.9692307692307692,1.9594178794178796,"BMI Category=Overweight, Sleep Disorder=Sleep Apnea",Gender=Female
+0.37967914438502676,0.953020134228188,1.9584040120952875,SleepDuration_bin=Normal,Quality_bin=Medium
+0.37967914438502676,0.7802197802197802,1.9584040120952872,Quality_bin=Medium,SleepDuration_bin=Normal
+0.3770053475935829,0.9527027027027026,1.9577517077517077,"BP_bin=High, SleepDuration_bin=Normal",Quality_bin=Medium
+0.1657754010695187,0.8157894736842105,1.9558029689608636,"BP_bin=High, Sleep Disorder=Insomnia",Activity_bin=Moderate
+0.3770053475935829,0.7790055248618785,1.9553561496533058,"BP_bin=High, Quality_bin=Medium",SleepDuration_bin=Normal
+0.19786096256684493,0.9367088607594937,1.9462728551336146,"Activity_bin=Moderate, BMI Category=Normal",Quality_bin=Good
+0.18983957219251338,0.9466666666666668,1.9453479853479856,"Gender=Female, SleepDuration_bin=Normal",Quality_bin=Medium
+0.08823529411764706,0.717391304347826,1.944234404536862,"Age_bin=Young, SleepDuration_bin=Long",Activity_bin=High
+0.09090909090909091,0.9444444444444445,1.940781440781441,Steps_bin=High,Quality_bin=Medium
+0.09090909090909091,0.9444444444444445,1.940781440781441,"HR_bin=Normal, Steps_bin=High",Quality_bin=Medium
+0.1711229946524064,0.9411764705882352,1.9340659340659339,"Sleep Disorder=Insomnia, SleepDuration_bin=Normal",Quality_bin=Medium
+0.0855614973262032,0.9411764705882352,1.9340659340659339,"Gender=Female, Steps_bin=High",Quality_bin=Medium
+0.0855614973262032,0.9411764705882352,1.9340659340659339,"Activity_bin=High, Steps_bin=High",Quality_bin=Medium
+0.08823529411764706,0.8048780487804879,1.929643527204503,"Gender=Male, Sleep Disorder=Insomnia",Activity_bin=Moderate
+0.20855614973262032,0.975,1.9293650793650792,"Age_bin=Young, HR_bin=Normal",Gender=Male
+0.28609625668449196,0.9385964912280701,1.9287642182379023,"SleepDuration_bin=Normal, Stress_bin=High",Quality_bin=Medium
+0.18716577540106952,0.9722222222222222,1.9238683127572016,"Age_bin=Young, Quality_bin=Medium",Gender=Male
+0.19518716577540107,0.9358974358974359,1.9232178078331925,"BMI Category=Overweight, Stress_bin=High",Quality_bin=Medium
+0.10427807486631016,0.951219512195122,1.9230059327620306,BP_bin=Normal,Gender=Female
+0.10427807486631016,0.951219512195122,1.9230059327620306,"BMI Category=Normal, BP_bin=Normal",Gender=Female
+0.10427807486631016,0.951219512195122,1.9230059327620306,"BP_bin=Normal, HR_bin=Normal",Gender=Female
+0.17647058823529413,0.9705882352941176,1.9206349206349205,"BMI Category=Normal, Quality_bin=Medium",Gender=Male
+0.0855614973262032,0.9696969696969696,1.9188712522045852,"Activity_bin=High, Age_bin=Young",Gender=Male
+0.09893048128342247,0.9487179487179488,1.9179487179487182,"BP_bin=Normal, Sleep Disorder=None",Gender=Female
+0.09893048128342247,0.9487179487179488,1.9179487179487182,"BP_bin=Normal, Steps_bin=Medium",Gender=Female
+0.1925133689839572,0.923076923076923,1.9179487179487178,"BMI Category=Normal, Gender=Female",Quality_bin=Good
+0.24598930481283424,0.9484536082474228,1.917414321538033,"Steps_bin=Medium, Stress_bin=Low",Gender=Female
+0.1657754010695187,0.96875,1.9169973544973544,"Quality_bin=Good, Stress_bin=Medium",Gender=Male
+0.09358288770053476,0.9210526315789473,1.9137426900584795,"Sleep Disorder=Sleep Apnea, SleepDuration_bin=Long",Quality_bin=Good
+0.09358288770053476,0.9210526315789473,1.9137426900584795,"Activity_bin=High, Age_bin=Old",Quality_bin=Good
+0.09090909090909091,0.9444444444444445,1.9093093093093096,Steps_bin=High,Gender=Female
+0.09090909090909091,0.9444444444444445,1.9093093093093096,"Activity_bin=Moderate, BP_bin=Normal",Gender=Female
+0.09090909090909091,0.9444444444444445,1.9093093093093096,"HR_bin=Normal, Steps_bin=High",Gender=Female
+0.27807486631016043,0.611764705882353,1.9066666666666667,"HR_bin=Normal, Quality_bin=Medium",Stress_bin=High
+0.10160427807486631,0.926829268292683,1.9045832216563925,"Age_bin=Young, Stress_bin=Medium",Quality_bin=Medium
+0.0855614973262032,0.9411764705882352,1.9027027027027026,"Quality_bin=Medium, Steps_bin=High",Gender=Female
+0.0855614973262032,0.9411764705882352,1.9027027027027026,"Steps_bin=High, Stress_bin=High",Gender=Female
+0.0855614973262032,0.9411764705882352,1.9027027027027026,"BP_bin=High, Steps_bin=High",Gender=Female
+0.2647058823529412,0.9611650485436893,1.9019879796578825,"SleepDuration_bin=Long, Stress_bin=Medium",Gender=Male
+0.10427807486631016,0.609375,1.89921875,"BMI Category=Overweight, Sleep Disorder=Insomnia",Stress_bin=High
+0.08288770053475936,0.9393939393939393,1.899099099099099,"Sleep Disorder=Sleep Apnea, Stress_bin=Low",Gender=Female
+0.08288770053475936,0.9393939393939393,1.899099099099099,"SleepDuration_bin=Normal, Steps_bin=High",Gender=Female
+0.19786096256684493,0.9135802469135803,1.8982167352537724,"Activity_bin=Moderate, SleepDuration_bin=Long",Quality_bin=Good
+0.25133689839572193,0.9591836734693878,1.898067163373286,"BMI Category=Normal, Stress_bin=Medium",Gender=Male
+0.08288770053475936,0.7560975609756098,1.8978556228515306,"Age_bin=Young, Steps_bin=Low",SleepDuration_bin=Normal
+0.11229946524064172,0.9130434782608695,1.8971014492753624,"SleepDuration_bin=Long, Steps_bin=Low",Quality_bin=Good
+0.16042780748663102,0.9230769230769231,1.89687235841082,"Sleep Disorder=Insomnia, Steps_bin=Medium",Quality_bin=Medium
+0.15775401069518716,0.9365079365079364,1.893264693264693,"Activity_bin=High, Sleep Disorder=Sleep Apnea",Gender=Female
+0.11764705882352941,0.9565217391304347,1.8927996319300664,"Age_bin=Young, SleepDuration_bin=Long",Gender=Male
+0.06149732620320856,0.92,1.8905494505494507,"Sleep Disorder=Insomnia, Stress_bin=Low",Quality_bin=Medium
+0.08021390374331551,0.9090909090909091,1.8888888888888888,"Age_bin=Old, Sleep Disorder=Sleep Apnea",Quality_bin=Good
+0.18181818181818182,0.9189189189189189,1.8883278883278882,"Gender=Male, Stress_bin=High",Quality_bin=Medium
+0.28342245989304815,0.7464788732394366,1.8863722877807383,"Quality_bin=Medium, SleepDuration_bin=Normal",BMI Category=Overweight
+0.0855614973262032,0.6956521739130435,1.8853182104599875,"Gender=Female, Stress_bin=High",Activity_bin=High
+0.10427807486631016,0.951219512195122,1.8823073945025166,"Age_bin=Young, Stress_bin=Medium",Gender=Male
+0.20320855614973263,0.9500000000000001,1.87989417989418,"Age_bin=Young, Sleep Disorder=None",Gender=Male
+0.0855614973262032,0.9142857142857143,1.8788069073783358,"Sleep Disorder=Sleep Apnea, SleepDuration_bin=Normal",Quality_bin=Medium
+0.09893048128342247,0.9487179487179488,1.877357210690544,"Quality_bin=Medium, SleepDuration_bin=Long",Gender=Male
+0.2700534759358289,0.7426470588235294,1.876689189189189,"HR_bin=Normal, SleepDuration_bin=Normal",BMI Category=Overweight
+0.10160427807486631,0.926829268292683,1.873698088332235,"Activity_bin=High, Stress_bin=Low",Gender=Female
+0.03208556149732621,0.6000000000000001,1.8700000000000003,"HR_bin=Elevated, Steps_bin=Low",Stress_bin=High
+0.09090909090909091,0.9444444444444445,1.8689006466784246,"Sleep Disorder=None, Stress_bin=High",Gender=Male
+0.09090909090909091,0.9444444444444445,1.8689006466784246,"Activity_bin=Low, Quality_bin=Medium",Gender=Male
+0.16042780748663102,0.9230769230769231,1.8661122661122662,"Age_bin=Middle, Stress_bin=Low",Gender=Female
+0.10427807486631016,0.9069767441860465,1.8637873754152823,"Age_bin=Young, SleepDuration_bin=Normal",Quality_bin=Medium
+0.3422459893048128,0.9208633093525179,1.8616371767450903,"HR_bin=Normal, Stress_bin=Low",Gender=Female
+0.2914438502673797,0.7364864864864864,1.8611212563915263,"BP_bin=High, SleepDuration_bin=Normal",BMI Category=Overweight
+0.10160427807486631,0.9047619047619048,1.8592360020931449,"BMI Category=Overweight, Gender=Male",Quality_bin=Medium
+0.08823529411764706,0.9166666666666667,1.8531531531531533,"BMI Category=Overweight, SleepDuration_bin=Long",Gender=Female
+0.2887700534759358,0.8999999999999999,1.8494505494505493,Stress_bin=High,Quality_bin=Medium
+0.2914438502673797,0.7364864864864864,1.8486305097043352,BMI Category=Overweight,SleepDuration_bin=Normal
+0.2914438502673797,0.7364864864864864,1.8486305097043352,"BMI Category=Overweight, BP_bin=High",SleepDuration_bin=Normal
+0.2914438502673797,0.7315436241610739,1.8486305097043352,SleepDuration_bin=Normal,BMI Category=Overweight
+0.0855614973262032,0.9142857142857143,1.8483397683397684,"Sleep Disorder=Sleep Apnea, SleepDuration_bin=Normal",Gender=Female
+0.28609625668449196,0.8991596638655461,1.8477237048665618,"BP_bin=High, Stress_bin=High",Quality_bin=Medium
+0.2620320855614973,0.9333333333333332,1.8469135802469132,"HR_bin=Normal, Stress_bin=Medium",Gender=Male
+0.1657754010695187,0.8985507246376812,1.8464723682114985,"HR_bin=Normal, Sleep Disorder=Insomnia",Quality_bin=Medium
+0.09358288770053476,0.8974358974358975,1.844181459566075,"BMI Category=Normal, SleepDuration_bin=Normal",Quality_bin=Medium
+0.06684491978609626,0.6944444444444445,1.8420015760441295,"Gender=Female, Sleep Disorder=Insomnia",Stress_bin=Low
+0.09090909090909091,0.8947368421052632,1.838635049161365,"BMI Category=Normal, Stress_bin=High",Quality_bin=Medium
+0.16042780748663102,0.9090909090909091,1.837837837837838,"HR_bin=Normal, Sleep Disorder=Sleep Apnea",Gender=Female
+0.17379679144385027,0.9285714285714286,1.837490551776266,"Activity_bin=High, BMI Category=Normal",Gender=Male
+0.2700534759358289,0.7318840579710146,1.837078105242681,"BMI Category=Overweight, HR_bin=Normal",SleepDuration_bin=Normal
+0.24331550802139038,0.883495145631068,1.8357065803667747,"Age_bin=Middle, Sleep Disorder=None",Quality_bin=Good
+0.3422459893048128,0.6918918918918919,1.8352309756565077,Gender=Female,Stress_bin=Low
+0.3422459893048128,0.9078014184397163,1.8352309756565075,Stress_bin=Low,Gender=Female
+0.3315508021390374,0.7654320987654321,1.835074390629946,"Age_bin=Middle, Steps_bin=Medium",Activity_bin=Moderate
+0.28342245989304815,0.726027397260274,1.8346908552388004,"BP_bin=High, Gender=Female",BMI Category=Overweight
+0.20320855614973263,0.926829268292683,1.8340431023357853,"Age_bin=Young, BMI Category=Normal",Gender=Male
+0.15508021390374332,0.8923076923076924,1.833643279797126,"Age_bin=Middle, Sleep Disorder=Insomnia",Quality_bin=Medium
+0.06684491978609626,1.0,1.8333333333333335,"SleepDuration_bin=Normal, Stress_bin=Low",Age_bin=Middle
+0.06684491978609626,1.0,1.8333333333333335,"Quality_bin=Medium, Stress_bin=Low",Age_bin=Middle
+0.0855614973262032,0.8888888888888888,1.8266178266178266,"Gender=Female, Sleep Disorder=Insomnia",Quality_bin=Medium
+0.1925133689839572,0.8780487804878049,1.824390243902439,"Gender=Female, Sleep Disorder=None",Quality_bin=Good
+0.10427807486631016,0.8863636363636364,1.8214285714285714,"Sleep Disorder=Insomnia, Stress_bin=High",Quality_bin=Medium
+0.24598930481283424,0.92,1.8205291005291004,"Sleep Disorder=None, Stress_bin=Medium",Gender=Male
+0.26737967914438504,0.9174311926605505,1.8154458521430998,"BP_bin=High, Stress_bin=Medium",Gender=Male
+0.2620320855614973,0.9158878504672897,1.8123918310834197,"Steps_bin=Medium, Stress_bin=Medium",Gender=Male
+0.22192513368983957,0.9120879120879121,1.8048723763009475,"Age_bin=Young, BP_bin=High",Gender=Male
+0.17647058823529413,0.868421052631579,1.8043859649122809,Age_bin=Old,Quality_bin=Good
+0.17647058823529413,0.868421052631579,1.8043859649122809,"Age_bin=Old, Gender=Female",Quality_bin=Good
+0.17647058823529413,0.868421052631579,1.8043859649122809,"Age_bin=Old, HR_bin=Normal",Quality_bin=Good
+0.17379679144385027,0.663265306122449,1.7975451049985214,"BMI Category=Normal, Stress_bin=Medium",Activity_bin=High
+0.0855614973262032,0.8888888888888888,1.796996996996997,"Quality_bin=Medium, Sleep Disorder=Sleep Apnea",Gender=Female
+0.1711229946524064,0.8648648648648648,1.796996996996997,"Age_bin=Old, BP_bin=High",Quality_bin=Good
+0.27540106951871657,0.8879310344827586,1.7950605778191984,"SleepDuration_bin=Long, Stress_bin=Low",Gender=Female
+0.27540106951871657,0.8879310344827586,1.7950605778191984,"Quality_bin=Good, Stress_bin=Low",Gender=Female
+0.08288770053475936,0.8857142857142857,1.7905791505791506,"Quality_bin=Good, Sleep Disorder=Sleep Apnea",Gender=Female
+0.08288770053475936,0.8611111111111112,1.7891975308641976,"Sleep Disorder=Sleep Apnea, Steps_bin=Medium",Quality_bin=Good
+0.10695187165775401,0.8695652173913043,1.7869087434304824,"Gender=Female, Stress_bin=High",Quality_bin=Medium
+0.2727272727272727,0.9026548672566371,1.786205927798848,Stress_bin=Medium,Gender=Male
+0.09893048128342247,0.902439024390244,1.7857788101690542,"Age_bin=Young, Steps_bin=Low",Gender=Male
+0.16310160427807488,0.8591549295774649,1.7851330203442881,"Age_bin=Middle, Stress_bin=Medium",Quality_bin=Good
+0.17647058823529413,0.868421052631579,1.7845575477154425,"BP_bin=High, Sleep Disorder=Insomnia",Quality_bin=Medium
+0.09090909090909091,0.8947368421052632,1.770537454747981,"BMI Category=Normal, Stress_bin=High",Gender=Male
+0.0855614973262032,0.6530612244897959,1.7698905649216208,"Quality_bin=Medium, Stress_bin=Medium",Activity_bin=High
+0.24331550802139038,0.875,1.768918918918919,"BP_bin=High, Stress_bin=Low",Gender=Female
+0.18716577540106952,0.875,1.768918918918919,"BMI Category=Normal, Stress_bin=Low",Gender=Female
+0.09358288770053476,0.875,1.768918918918919,"Sleep Disorder=Sleep Apnea, Stress_bin=High",Gender=Female
+0.22459893048128343,0.8936170212765958,1.7683215130023642,Age_bin=Young,Gender=Male
+0.17647058823529413,0.8571428571428572,1.7613814756671902,Sleep Disorder=Insomnia,Quality_bin=Medium
+0.06417112299465241,0.9600000000000001,1.7600000000000002,"Sleep Disorder=Insomnia, Stress_bin=Low",Age_bin=Middle
+0.16844919786096257,0.8873239436619719,1.755868544600939,"Age_bin=Middle, Stress_bin=Medium",Gender=Male
+0.1925133689839572,0.8674698795180723,1.7536958645392382,"Sleep Disorder=None, Stress_bin=Low",Gender=Female
+0.08823529411764706,0.6470588235294119,1.7536231884057976,"Age_bin=Young, Steps_bin=Medium",Activity_bin=High
+0.08288770053475936,0.8857142857142857,1.7526832955404383,"Quality_bin=Medium, Steps_bin=Low",Gender=Male
+0.16310160427807488,0.9531250000000001,1.7473958333333337,"Quality_bin=Good, Stress_bin=Medium",Age_bin=Middle
+0.09090909090909091,0.8500000000000001,1.746703296703297,"Activity_bin=Low, Gender=Male",Quality_bin=Medium
+0.12032085561497326,0.8823529411764707,1.746031746031746,"Age_bin=Young, Steps_bin=Medium",Gender=Male
+0.08288770053475936,0.8611111111111112,1.7408408408408411,"Sleep Disorder=Sleep Apnea, Steps_bin=Medium",Gender=Female
+0.17914438502673796,0.8589743589743589,1.7365211365211364,Sleep Disorder=Sleep Apnea,Gender=Female
+0.47593582887700536,0.835680751173709,1.7363588941053731,"HR_bin=Normal, SleepDuration_bin=Long",Quality_bin=Good
+0.17647058823529413,0.8571428571428572,1.732818532818533,"BP_bin=High, Sleep Disorder=Sleep Apnea",Gender=Female
+0.20855614973262032,0.6902654867256638,1.7326126982241494,"Quality_bin=Medium, Steps_bin=Medium",SleepDuration_bin=Normal
+0.09090909090909091,0.9444444444444445,1.7314814814814818,"Activity_bin=Moderate, BP_bin=Normal",Age_bin=Middle
+0.19786096256684493,1.0,1.7314814814814816,"Activity_bin=Moderate, Quality_bin=Good",BMI Category=Normal
+0.17379679144385027,1.0,1.7314814814814816,"Activity_bin=High, Stress_bin=Medium",BMI Category=Normal
+0.1711229946524064,1.0,1.7314814814814816,"Quality_bin=Good, Stress_bin=Medium",BMI Category=Normal
+0.10962566844919786,1.0,1.7314814814814816,BP_bin=Normal,BMI Category=Normal
+0.10962566844919786,1.0,1.7314814814814816,"BP_bin=Normal, HR_bin=Normal",BMI Category=Normal
+0.10695187165775401,1.0,1.7314814814814816,"BP_bin=Normal, SleepDuration_bin=Long",BMI Category=Normal
+0.10695187165775401,1.0,1.7314814814814816,"BP_bin=Normal, Quality_bin=Good",BMI Category=Normal
+0.10427807486631016,1.0,1.7314814814814816,"BP_bin=Normal, Gender=Female",BMI Category=Normal
+0.10427807486631016,1.0,1.7314814814814816,"BP_bin=Normal, Sleep Disorder=None",BMI Category=Normal
+0.10427807486631016,1.0,1.7314814814814816,"BP_bin=Normal, Steps_bin=Medium",BMI Category=Normal
+0.09893048128342247,1.0,1.7314814814814816,"BP_bin=Normal, Stress_bin=Low",BMI Category=Normal
+0.0962566844919786,1.0,1.7314814814814816,"Age_bin=Middle, BP_bin=Normal",BMI Category=Normal
+0.0962566844919786,1.0,1.7314814814814816,"Activity_bin=Moderate, BP_bin=Normal",BMI Category=Normal
+0.08823529411764706,1.0,1.7314814814814816,"Activity_bin=High, Age_bin=Young",BMI Category=Normal
+0.0855614973262032,1.0,1.7314814814814816,"Activity_bin=Low, SleepDuration_bin=Long",BMI Category=Normal
+0.0855614973262032,1.0,1.7314814814814816,"Activity_bin=Low, Quality_bin=Good",BMI Category=Normal
+0.0855614973262032,1.0,1.7314814814814816,"Activity_bin=Low, Stress_bin=Low",BMI Category=Normal
+0.08288770053475936,1.0,1.7314814814814816,"Activity_bin=Low, Age_bin=Old",BMI Category=Normal
+0.034759358288770054,1.0,1.7314814814814816,"Age_bin=Young, Quality_bin=Good",BMI Category=Normal
+0.18716577540106952,0.875,1.7314814814814814,"Quality_bin=Medium, Sleep Disorder=None",Gender=Male
+0.08288770053475936,0.6888888888888889,1.729157345264728,"Gender=Male, Steps_bin=Low",SleepDuration_bin=Normal
+0.17379679144385027,0.6372549019607844,1.7270531400966187,"Gender=Male, Stress_bin=Medium",Activity_bin=High
+0.09090909090909091,0.8717948717948718,1.7251390584723918,"BMI Category=Normal, SleepDuration_bin=Normal",Gender=Male
+0.15508021390374332,0.8529411764705883,1.7243243243243245,"Activity_bin=Moderate, Stress_bin=Low",Gender=Female
+0.17914438502673796,0.8375,1.7210164835164836,"Age_bin=Young, Sleep Disorder=None",Quality_bin=Medium
+0.17914438502673796,0.8375,1.7210164835164836,"Age_bin=Young, HR_bin=Normal",Quality_bin=Medium
+0.0962566844919786,0.8372093023255813,1.720419115767953,"Activity_bin=Low, SleepDuration_bin=Normal",Quality_bin=Medium
+0.034759358288770054,0.6842105263157895,1.7174143412221832,"BMI Category=Overweight, Sleep Disorder=None",SleepDuration_bin=Normal
+0.1925133689839572,0.6792452830188679,1.716471188169301,"HR_bin=Normal, Stress_bin=High",BMI Category=Overweight
+0.08021390374331551,0.8333333333333334,1.7124542124542126,"Age_bin=Middle, Sleep Disorder=Sleep Apnea",Quality_bin=Medium
+0.18716577540106952,0.8333333333333333,1.7124542124542124,"Age_bin=Young, Gender=Male",Quality_bin=Medium
+0.17379679144385027,0.6310679611650486,1.7102856338820884,"SleepDuration_bin=Long, Stress_bin=Medium",Activity_bin=High
+0.31016042780748665,0.822695035460993,1.7093774625689522,Stress_bin=Low,Quality_bin=Good
+0.31016042780748665,0.6444444444444445,1.709377462568952,Quality_bin=Good,Stress_bin=Low
+0.31016042780748665,0.6444444444444445,1.709377462568952,"Quality_bin=Good, SleepDuration_bin=Long",Stress_bin=Low
+0.10160427807486631,0.8636363636363636,1.7089947089947088,"Activity_bin=Low, Stress_bin=High",Gender=Male
+0.19518716577540107,0.6759259259259259,1.7080830830830829,"Quality_bin=Medium, Stress_bin=High",BMI Category=Overweight
+0.48128342245989303,1.0,1.7077625570776256,Quality_bin=Good,SleepDuration_bin=Long
+0.47593582887700536,1.0,1.7077625570776256,"HR_bin=Normal, Quality_bin=Good",SleepDuration_bin=Long
+0.3850267379679144,1.0,1.7077625570776256,"BMI Category=Normal, Quality_bin=Good",SleepDuration_bin=Long
+0.3716577540106952,1.0,1.7077625570776256,"Quality_bin=Good, Sleep Disorder=None",SleepDuration_bin=Long
+0.3716577540106952,1.0,1.7077625570776256,"BP_bin=High, Quality_bin=Good",SleepDuration_bin=Long
+0.36363636363636365,1.0,1.7077625570776256,"Quality_bin=Good, Steps_bin=Medium",SleepDuration_bin=Long
+0.31016042780748665,1.0,1.7077625570776256,"Quality_bin=Good, Stress_bin=Low",SleepDuration_bin=Long
+0.2807486631016043,1.0,1.7077625570776256,"Gender=Female, Quality_bin=Good",SleepDuration_bin=Long
+0.2700534759358289,1.0,1.7077625570776256,"Age_bin=Middle, Quality_bin=Good",SleepDuration_bin=Long
+0.26737967914438504,1.0,1.7077625570776256,"Activity_bin=High, Steps_bin=Medium",SleepDuration_bin=Long
+0.21390374331550802,1.0,1.7077625570776256,"BMI Category=Normal, Stress_bin=Low",SleepDuration_bin=Long
+0.20053475935828877,1.0,1.7077625570776256,"Gender=Male, Quality_bin=Good",SleepDuration_bin=Long
+0.19786096256684493,1.0,1.7077625570776256,"Activity_bin=High, Quality_bin=Good",SleepDuration_bin=Long
+0.19786096256684493,1.0,1.7077625570776256,"Activity_bin=Moderate, Quality_bin=Good",SleepDuration_bin=Long
+0.18716577540106952,1.0,1.7077625570776256,"Activity_bin=High, BMI Category=Normal",SleepDuration_bin=Long
+0.18181818181818182,1.0,1.7077625570776256,"Activity_bin=High, Gender=Male",SleepDuration_bin=Long
+0.17647058823529413,1.0,1.7077625570776256,"Age_bin=Old, Quality_bin=Good",SleepDuration_bin=Long
+0.17647058823529413,1.0,1.7077625570776256,"Age_bin=Old, Stress_bin=Low",SleepDuration_bin=Long
+0.17379679144385027,1.0,1.7077625570776256,"Activity_bin=High, Stress_bin=Medium",SleepDuration_bin=Long
+0.1711229946524064,1.0,1.7077625570776256,"Quality_bin=Good, Stress_bin=Medium",SleepDuration_bin=Long
+0.11229946524064172,1.0,1.7077625570776256,"Quality_bin=Good, Steps_bin=Low",SleepDuration_bin=Long
+0.11229946524064172,1.0,1.7077625570776256,"Steps_bin=Low, Stress_bin=Low",SleepDuration_bin=Long
+0.10962566844919786,1.0,1.7077625570776256,"Activity_bin=High, Stress_bin=Low",SleepDuration_bin=Long
+0.10695187165775401,1.0,1.7077625570776256,"BP_bin=Normal, Quality_bin=Good",SleepDuration_bin=Long
+0.10427807486631016,1.0,1.7077625570776256,"BP_bin=Normal, Gender=Female",SleepDuration_bin=Long
+0.09893048128342247,1.0,1.7077625570776256,"BP_bin=Normal, Stress_bin=Low",SleepDuration_bin=Long
+0.0962566844919786,1.0,1.7077625570776256,"Age_bin=Old, Sleep Disorder=None",SleepDuration_bin=Long
+0.09358288770053476,1.0,1.7077625570776256,"Quality_bin=Good, Sleep Disorder=Sleep Apnea",SleepDuration_bin=Long
+0.09090909090909091,1.0,1.7077625570776256,"Age_bin=Old, BMI Category=Normal",SleepDuration_bin=Long
+0.09090909090909091,1.0,1.7077625570776256,"BMI Category=Overweight, Quality_bin=Good",SleepDuration_bin=Long
+0.08823529411764706,1.0,1.7077625570776256,"Sleep Disorder=Sleep Apnea, Stress_bin=Low",SleepDuration_bin=Long
+0.08823529411764706,1.0,1.7077625570776256,"Age_bin=Old, Steps_bin=Low",SleepDuration_bin=Long
+0.08823529411764706,1.0,1.7077625570776256,"Activity_bin=High, Age_bin=Young",SleepDuration_bin=Long
+0.0855614973262032,1.0,1.7077625570776256,"Activity_bin=Low, Quality_bin=Good",SleepDuration_bin=Long
+0.0855614973262032,1.0,1.7077625570776256,"Activity_bin=Low, Stress_bin=Low",SleepDuration_bin=Long
+0.08288770053475936,1.0,1.7077625570776256,"Activity_bin=Low, Age_bin=Old",SleepDuration_bin=Long
+0.034759358288770054,1.0,1.7077625570776256,"Gender=Male, Stress_bin=Low",SleepDuration_bin=Long
+0.034759358288770054,1.0,1.7077625570776256,"Age_bin=Young, Quality_bin=Good",Sleep Disorder=None
+0.034759358288770054,1.0,1.7077625570776256,"Age_bin=Young, Quality_bin=Good",SleepDuration_bin=Long
+0.48128342245989303,0.821917808219178,1.7077625570776256,SleepDuration_bin=Long,Quality_bin=Good
+0.09090909090909091,0.8292682926829269,1.704100777271509,"Gender=Male, Sleep Disorder=Insomnia",Quality_bin=Medium
+0.3048128342245989,0.8201438848920863,1.7040767386091127,"HR_bin=Normal, Stress_bin=Low",Quality_bin=Good
+0.09893048128342247,0.8604651162790699,1.7027193306263075,"Age_bin=Young, SleepDuration_bin=Normal",Gender=Male
+0.09893048128342247,0.8604651162790699,1.7027193306263075,"Age_bin=Young, Stress_bin=High",Gender=Male
+0.09893048128342247,0.8604651162790699,1.7027193306263075,"Activity_bin=Low, Age_bin=Young",Gender=Male
+0.09893048128342247,0.8604651162790699,1.7027193306263075,"Activity_bin=Low, SleepDuration_bin=Normal",Gender=Male
+0.0855614973262032,0.8421052631578947,1.7024182076813656,"Sleep Disorder=Sleep Apnea, SleepDuration_bin=Long",Gender=Female
+0.10427807486631016,0.9285714285714285,1.7023809523809523,"BMI Category=Overweight, Gender=Male",Age_bin=Middle
+0.16310160427807488,0.8591549295774649,1.700126686042179,"Activity_bin=High, Sleep Disorder=None",Gender=Male
+0.10160427807486631,0.926829268292683,1.699186991869919,"Gender=Male, Sleep Disorder=Insomnia",Age_bin=Middle
+0.3048128342245989,0.6404494382022472,1.6987807793449676,"HR_bin=Normal, Quality_bin=Good",Stress_bin=Low
+0.08823529411764706,0.8250000000000001,1.6953296703296705,"Sleep Disorder=Sleep Apnea, Stress_bin=High",Quality_bin=Medium
+0.08288770053475936,0.8157894736842105,1.695029239766082,"Age_bin=Old, Steps_bin=Medium",Quality_bin=Good
+0.12032085561497326,0.9782608695652173,1.6938405797101448,"Age_bin=Young, SleepDuration_bin=Long",BMI Category=Normal
+0.11229946524064172,0.823529411764706,1.6923076923076925,"Age_bin=Young, Steps_bin=Medium",Quality_bin=Medium
+0.0962566844919786,0.923076923076923,1.6923076923076923,"BP_bin=Normal, Steps_bin=Medium",Age_bin=Middle
+0.18716577540106952,0.813953488372093,1.6912144702842378,"Activity_bin=Moderate, Sleep Disorder=None",Quality_bin=Good
+0.3850267379679144,0.8135593220338982,1.6903954802259886,"BMI Category=Normal, SleepDuration_bin=Long",Quality_bin=Good
+0.25935828877005346,0.9897959183673469,1.690336408536017,"BMI Category=Normal, Stress_bin=Medium",SleepDuration_bin=Long
+0.20855614973262032,0.975,1.6881944444444446,"Age_bin=Young, HR_bin=Normal",BMI Category=Normal
+0.08021390374331551,0.8333333333333334,1.6846846846846848,"Age_bin=Middle, Sleep Disorder=Sleep Apnea",Gender=Female
+0.09090909090909091,0.8095238095238095,1.6820105820105822,"Gender=Female, Steps_bin=Low",Quality_bin=Good
+0.3609625668449198,0.9712230215827339,1.681654676258993,"Quality_bin=Good, Sleep Disorder=None",BMI Category=Normal
+0.2620320855614973,0.9702970297029702,1.6800513384671798,"Age_bin=Middle, Quality_bin=Good",BMI Category=Normal
+0.17379679144385027,0.6190476190476191,1.6777087646652866,"HR_bin=Normal, Stress_bin=Medium",Activity_bin=High
+0.16310160427807488,0.9682539682539683,1.6765138154027044,"Sleep Disorder=None, Steps_bin=Low",BMI Category=Normal
+0.08288770053475936,0.8157894736842105,1.6764025448235975,"SleepDuration_bin=Normal, Steps_bin=Low",Quality_bin=Medium
+0.16042780748663102,0.967741935483871,1.6756272401433694,"Activity_bin=Low, Sleep Disorder=None",BMI Category=Normal
+0.08823529411764706,0.8461538461538463,1.6743996743996745,"Steps_bin=Low, Stress_bin=High",Gender=Male
+0.2620320855614973,0.9799999999999999,1.6736073059360728,"Age_bin=Middle, BMI Category=Normal",SleepDuration_bin=Long
+0.27540106951871657,0.8046875,1.6719618055555556,"Gender=Female, Stress_bin=Low",Quality_bin=Good
+0.446524064171123,0.9653179190751445,1.671430100620852,"Sleep Disorder=None, SleepDuration_bin=Long",BMI Category=Normal
+0.3716577540106952,0.8034682080924855,1.6694283879254979,"Sleep Disorder=None, SleepDuration_bin=Long",Quality_bin=Good
+0.21657754010695188,0.9759036144578314,1.6666116520878034,"Sleep Disorder=None, Stress_bin=Low",SleepDuration_bin=Long
+0.10695187165775401,0.975609756097561,1.6661098117830493,BP_bin=Normal,SleepDuration_bin=Long
+0.10695187165775401,0.975609756097561,1.6661098117830493,"BMI Category=Normal, BP_bin=Normal",SleepDuration_bin=Long
+0.10695187165775401,0.975609756097561,1.6661098117830493,"BP_bin=Normal, HR_bin=Normal",SleepDuration_bin=Long
+0.15775401069518716,0.9076923076923077,1.6641025641025642,"Sleep Disorder=Insomnia, Steps_bin=Medium",Age_bin=Middle
+0.10160427807486631,0.9743589743589743,1.6639737735628146,"BP_bin=Normal, Sleep Disorder=None",SleepDuration_bin=Long
+0.10160427807486631,0.9743589743589743,1.6639737735628146,"BP_bin=Normal, Steps_bin=Medium",SleepDuration_bin=Long
+0.20053475935828877,0.6578947368421053,1.6625177809388336,"SleepDuration_bin=Normal, Stress_bin=High",BMI Category=Overweight
+0.1925133689839572,0.96,1.6622222222222223,"Gender=Male, Quality_bin=Good",BMI Category=Normal
+0.0855614973262032,0.7999999999999999,1.662222222222222,"Activity_bin=Low, Gender=Female",Quality_bin=Good
+0.17379679144385027,0.6132075471698113,1.661881323489199,"BMI Category=Overweight, Gender=Female",Activity_bin=High
+0.15508021390374332,0.9062500000000001,1.6614583333333337,"BMI Category=Overweight, Sleep Disorder=Insomnia",Age_bin=Middle
+0.07754010695187166,0.9062500000000001,1.6614583333333337,"BMI Category=Overweight, Steps_bin=High",Age_bin=Middle
+0.07754010695187166,0.9062500000000001,1.6614583333333337,"Activity_bin=High, Stress_bin=High",Age_bin=Middle
+0.09358288770053476,0.9722222222222222,1.6603247082699137,"Age_bin=Middle, BP_bin=Normal",SleepDuration_bin=Long
+0.09358288770053476,0.9722222222222222,1.6603247082699137,"Activity_bin=Moderate, BP_bin=Normal",SleepDuration_bin=Long
+0.18449197860962566,0.9718309859154929,1.659656569554312,"Activity_bin=High, Sleep Disorder=None",SleepDuration_bin=Long
+0.15240641711229946,0.9047619047619048,1.6587301587301588,"Activity_bin=Moderate, Sleep Disorder=Insomnia",Age_bin=Middle
+0.18716577540106952,0.660377358490566,1.6575914904394073,"BMI Category=Overweight, Gender=Female",SleepDuration_bin=Normal
+0.18716577540106952,0.660377358490566,1.6575914904394073,"BMI Category=Overweight, Steps_bin=Medium",SleepDuration_bin=Normal
+0.2647058823529412,0.9705882352941178,1.6575342465753427,"Gender=Male, Stress_bin=Medium",SleepDuration_bin=Long
+0.08823529411764706,0.9705882352941176,1.6575342465753424,"Age_bin=Old, BMI Category=Normal",Sleep Disorder=None
+0.20855614973262032,0.6554621848739496,1.6563706563706562,"BP_bin=High, Stress_bin=High",BMI Category=Overweight
+0.0855614973262032,0.9696969696969696,1.6560121765601217,"Activity_bin=High, Age_bin=Young",Sleep Disorder=None
+0.0748663101604278,0.9032258064516129,1.6559139784946237,"Activity_bin=High, SleepDuration_bin=Normal",Age_bin=Middle
+0.17379679144385027,0.9558823529411764,1.6550925925925926,"Activity_bin=High, Gender=Male",BMI Category=Normal
+0.08288770053475936,0.96875,1.6543949771689497,"Activity_bin=Low, SleepDuration_bin=Long",Sleep Disorder=None
+0.08288770053475936,0.96875,1.6543949771689497,"Activity_bin=Low, Quality_bin=Good",Sleep Disorder=None
+0.08288770053475936,0.96875,1.6543949771689497,"Activity_bin=Low, Stress_bin=Low",Sleep Disorder=None
+0.18449197860962566,0.69,1.6542307692307692,"Age_bin=Middle, Quality_bin=Medium",Activity_bin=Moderate
+0.24331550802139038,0.6232876712328768,1.653259496745361,"BP_bin=High, Gender=Female",Stress_bin=Low
+0.08021390374331551,0.967741935483871,1.6526734423331861,"Activity_bin=Low, Age_bin=Old",Sleep Disorder=None
+0.36363636363636365,0.7953216374269007,1.6525016244314492,"SleepDuration_bin=Long, Steps_bin=Medium",Quality_bin=Good
+0.18983957219251338,0.6574074074074074,1.6501367138951033,"Gender=Male, Quality_bin=Medium",SleepDuration_bin=Normal
+0.040106951871657755,0.8333333333333334,1.6490299823633157,"Activity_bin=Moderate, Age_bin=Young",Gender=Male
+0.17379679144385027,0.6074766355140188,1.6463497223350945,"Steps_bin=Medium, Stress_bin=Medium",Activity_bin=High
+0.18181818181818182,0.6071428571428572,1.6454451345755696,"Gender=Male, SleepDuration_bin=Long",Activity_bin=High
+0.09358288770053476,0.8974358974358975,1.6452991452991454,"BP_bin=Normal, Gender=Female",Age_bin=Middle
+0.20588235294117646,0.9625,1.6437214611872146,"BMI Category=Normal, Stress_bin=Low",Sleep Disorder=None
+0.20588235294117646,0.9625,1.6437214611872146,"Age_bin=Young, HR_bin=Normal",Sleep Disorder=None
+0.06951871657754011,0.8965517241379309,1.64367816091954,"Sleep Disorder=Sleep Apnea, Steps_bin=High",Age_bin=Middle
+0.20855614973262032,0.65,1.6425675675675675,Stress_bin=High,BMI Category=Overweight
+0.10427807486631016,0.8297872340425532,1.642012833502195,"Steps_bin=Medium, Stress_bin=High",Gender=Male
+0.09090909090909091,0.8095238095238095,1.6365508365508366,"Quality_bin=Good, Steps_bin=Low",Gender=Female
+0.09090909090909091,0.8095238095238095,1.6365508365508366,"Steps_bin=Low, Stress_bin=Low",Gender=Female
+0.3315508021390374,0.8920863309352518,1.6354916067146283,"Activity_bin=Moderate, Steps_bin=Medium",Age_bin=Middle
+0.08823529411764706,0.8918918918918919,1.6351351351351353,"BP_bin=Normal, Stress_bin=Low",Age_bin=Middle
+0.11764705882352941,0.9565217391304347,1.6335120111177286,"Age_bin=Young, SleepDuration_bin=Long",Sleep Disorder=None
+0.08823529411764706,0.7857142857142857,1.6325396825396825,"Age_bin=Old, BMI Category=Overweight",Quality_bin=Good
+0.17379679144385027,0.9558823529411764,1.6324200913242009,"BMI Category=Normal, Quality_bin=Medium",Sleep Disorder=None
+0.25935828877005346,0.9417475728155339,1.6306184825602301,"SleepDuration_bin=Long, Stress_bin=Medium",BMI Category=Normal
+0.3449197860962567,0.9416058394160584,1.6303730738037308,"Gender=Male, Sleep Disorder=None",BMI Category=Normal
+0.17379679144385027,0.7926829268292683,1.6289198606271778,"Age_bin=Young, BMI Category=Normal",Quality_bin=Medium
+0.16844919786096257,0.9402985074626866,1.6281094527363185,"HR_bin=Normal, Steps_bin=Low",BMI Category=Normal
+0.08288770053475936,0.9393939393939393,1.626543209876543,"Age_bin=Old, Steps_bin=Low",BMI Category=Normal
+0.16042780748663102,0.6,1.626086956521739,"Sleep Disorder=None, Stress_bin=Medium",Activity_bin=High
+0.1925133689839572,0.7912087912087912,1.6258905929235599,"Age_bin=Young, BP_bin=High",Quality_bin=Medium
+0.09090909090909091,0.7906976744186046,1.6248402760030667,"Age_bin=Young, Stress_bin=High",Quality_bin=Medium
+0.09090909090909091,0.7906976744186046,1.6248402760030667,"Activity_bin=Low, Age_bin=Young",Quality_bin=Medium
+0.10427807486631016,0.951219512195122,1.6244570664884732,BP_bin=Normal,Sleep Disorder=None
+0.10427807486631016,0.951219512195122,1.6244570664884732,"BMI Category=Normal, BP_bin=Normal",Sleep Disorder=None
+0.10427807486631016,0.951219512195122,1.6244570664884732,"Age_bin=Young, Stress_bin=Medium",Sleep Disorder=None
+0.10427807486631016,0.951219512195122,1.6244570664884732,"BP_bin=Normal, HR_bin=Normal",Sleep Disorder=None
+0.20053475935828877,0.9375,1.623263888888889,"Age_bin=Young, Sleep Disorder=None",BMI Category=Normal
+0.3716577540106952,0.7808988764044943,1.6225343320848937,"BP_bin=High, SleepDuration_bin=Long",Quality_bin=Good
+0.10160427807486631,0.9500000000000001,1.6223744292237443,"BP_bin=Normal, SleepDuration_bin=Long",Sleep Disorder=None
+0.10160427807486631,0.9500000000000001,1.6223744292237443,"BP_bin=Normal, Quality_bin=Good",Sleep Disorder=None
+0.040106951871657755,0.7894736842105263,1.622325043377675,"BMI Category=Overweight, Sleep Disorder=None",Quality_bin=Medium
+0.20053475935828877,0.9493670886075949,1.621293566845847,"Activity_bin=Moderate, BMI Category=Normal",Sleep Disorder=None
+0.20053475935828877,0.9493670886075949,1.621293566845847,"Activity_bin=Moderate, BMI Category=Normal",SleepDuration_bin=Long
+0.16310160427807488,0.8840579710144929,1.6207729468599037,"HR_bin=Normal, Sleep Disorder=Insomnia",Age_bin=Middle
+0.09893048128342247,0.9487179487179488,1.6201849900480039,"BP_bin=Normal, Gender=Female",Sleep Disorder=None
+0.09893048128342247,0.9487179487179488,1.6201849900480039,"BP_bin=Normal, Steps_bin=Medium",Sleep Disorder=None
+0.0962566844919786,0.8181818181818181,1.6190476190476188,"Activity_bin=Moderate, Stress_bin=High",Gender=Male
+0.2620320855614973,0.9333333333333332,1.6160493827160494,"HR_bin=Normal, Stress_bin=Medium",BMI Category=Normal
+0.18716577540106952,0.9459459459459458,1.6154510675058618,"Activity_bin=Moderate, Quality_bin=Good",Sleep Disorder=None
+0.09358288770053476,0.9459459459459458,1.6154510675058618,"BP_bin=Normal, Stress_bin=Low",Sleep Disorder=None
+0.10695187165775401,0.8163265306122449,1.6153763092538602,"Quality_bin=Medium, Stress_bin=Medium",Gender=Male
+0.08288770053475936,0.8157894736842105,1.6143135616819826,"SleepDuration_bin=Normal, Steps_bin=Low",Gender=Male
+0.3663101604278075,0.9448275862068967,1.6135411746181705,"BMI Category=Normal, Steps_bin=Medium",SleepDuration_bin=Long
+0.09090909090909091,0.9444444444444445,1.6128868594622021,"Age_bin=Middle, BP_bin=Normal",Sleep Disorder=None
+0.09090909090909091,0.9444444444444445,1.6128868594622021,"Activity_bin=Moderate, BP_bin=Normal",Sleep Disorder=None
+0.045454545454545456,0.9444444444444445,1.6128868594622021,"Activity_bin=Moderate, Age_bin=Young",Sleep Disorder=None
+0.446524064171123,0.943502824858757,1.611278796790754,"BMI Category=Normal, SleepDuration_bin=Long",Sleep Disorder=None
+0.15508021390374332,0.8787878787878788,1.6111111111111112,"Quality_bin=Medium, Sleep Disorder=Insomnia",Age_bin=Middle
+0.5347593582887701,0.9433962264150944,1.611096751960024,"BMI Category=Normal, HR_bin=Normal",Sleep Disorder=None
+0.5347593582887701,0.930232558139535,1.6106804478897505,"HR_bin=Normal, Sleep Disorder=None",BMI Category=Normal
+0.2647058823529412,0.9428571428571428,1.6101761252446183,"HR_bin=Normal, Stress_bin=Medium",SleepDuration_bin=Long
+0.1925133689839572,0.6371681415929203,1.6101411145658933,"Quality_bin=Medium, Steps_bin=Medium",BMI Category=Overweight
+0.0962566844919786,0.8780487804878049,1.6097560975609757,BP_bin=Normal,Age_bin=Middle
+0.0962566844919786,0.8780487804878049,1.6097560975609757,"BMI Category=Normal, BP_bin=Normal",Age_bin=Middle
+0.0962566844919786,0.8780487804878049,1.6097560975609757,"BP_bin=Normal, HR_bin=Normal",Age_bin=Middle
+0.27807486631016043,0.9285714285714286,1.607804232804233,"Gender=Male, SleepDuration_bin=Long",BMI Category=Normal
+0.16042780748663102,0.6060606060606061,1.607565011820331,"Age_bin=Middle, Gender=Female",Stress_bin=Low
+0.1711229946524064,0.8767123287671232,1.6073059360730595,"Activity_bin=Moderate, BMI Category=Overweight",Age_bin=Middle
+0.20588235294117646,0.927710843373494,1.6063141454707721,"Sleep Disorder=None, Stress_bin=Low",BMI Category=Normal
+0.19518716577540107,0.6697247706422018,1.6056222065396377,"BMI Category=Overweight, Quality_bin=Medium",Activity_bin=Moderate
+0.09358288770053476,0.875,1.6041666666666667,"BP_bin=Normal, SleepDuration_bin=Long",Age_bin=Middle
+0.09358288770053476,0.875,1.6041666666666667,"BP_bin=Normal, Quality_bin=Good",Age_bin=Middle
+0.20053475935828877,0.9259259259259259,1.6032235939643347,"Activity_bin=Moderate, SleepDuration_bin=Long",BMI Category=Normal
+0.3609625668449198,0.9375,1.601027397260274,"BMI Category=Normal, Quality_bin=Good",Sleep Disorder=None
+0.2620320855614973,0.9245283018867924,1.6008036338225016,"Age_bin=Middle, SleepDuration_bin=Long",BMI Category=Normal
+0.18449197860962566,0.6330275229357798,1.5996776593106867,"Gender=Female, Steps_bin=Medium",BMI Category=Overweight
+0.19518716577540107,0.9358974358974359,1.5982905982905984,"BMI Category=Normal, Gender=Female",SleepDuration_bin=Long
+0.09090909090909091,0.8717948717948718,1.5982905982905984,"BP_bin=Normal, Sleep Disorder=None",Age_bin=Middle
+0.2540106951871658,0.871559633027523,1.5978593272171258,"BMI Category=Overweight, SleepDuration_bin=Normal",Age_bin=Middle
+0.2540106951871658,0.871559633027523,1.5978593272171258,"BMI Category=Overweight, Quality_bin=Medium",Age_bin=Middle
+0.3449197860962567,0.9347826086956522,1.5963867381377805,"BMI Category=Normal, Gender=Male",Sleep Disorder=None
+0.25133689839572193,0.9215686274509804,1.5956790123456792,"Gender=Male, Stress_bin=Medium",BMI Category=Normal
+0.09893048128342247,0.8043478260869565,1.5916724177593742,"Sleep Disorder=None, SleepDuration_bin=Normal",Gender=Male
+0.15775401069518716,0.8676470588235293,1.5906862745098038,"Activity_bin=Moderate, Stress_bin=Low",Age_bin=Middle
+0.3609625668449198,0.9310344827586207,1.5899858290033064,"BMI Category=Normal, Steps_bin=Medium",Sleep Disorder=None
+0.17914438502673796,0.9305555555555556,1.589167935058346,"Age_bin=Young, Quality_bin=Medium",Sleep Disorder=None
+0.17379679144385027,0.8666666666666667,1.588888888888889,"Activity_bin=Moderate, Gender=Female",Age_bin=Middle
+0.17647058823529413,0.9295774647887324,1.587497588269342,"Age_bin=Middle, Stress_bin=Medium",SleepDuration_bin=Long
+0.08823529411764706,0.9166666666666667,1.5871913580246915,"Age_bin=Old, Sleep Disorder=None",BMI Category=Normal
+0.2620320855614973,0.9158878504672897,1.5858428521979924,"Steps_bin=Medium, Stress_bin=Medium",BMI Category=Normal
+0.24331550802139038,0.9285714285714286,1.5857795172863667,"BMI Category=Normal, Stress_bin=Medium",Sleep Disorder=None
+0.17379679144385027,0.9285714285714286,1.5857795172863667,"Activity_bin=High, BMI Category=Normal",Sleep Disorder=None
+0.17379679144385027,0.9154929577464789,1.5851591027647367,"Activity_bin=High, Sleep Disorder=None",BMI Category=Normal
+0.18181818181818182,0.6601941747572816,1.5827732138411752,"Age_bin=Middle, Sleep Disorder=None",Activity_bin=Moderate
+0.1711229946524064,0.6597938144329897,1.5818133756278085,"Age_bin=Middle, SleepDuration_bin=Normal",Activity_bin=Moderate
+0.5347593582887701,0.925925925925926,1.5812616269237276,BMI Category=Normal,Sleep Disorder=None
+0.5347593582887701,0.9132420091324202,1.5812616269237276,Sleep Disorder=None,BMI Category=Normal
+0.16844919786096257,0.9130434782608696,1.5809178743961354,"Activity_bin=Low, HR_bin=Normal",BMI Category=Normal
+0.2647058823529412,0.9252336448598132,1.5800793752400462,"Steps_bin=Medium, Stress_bin=Medium",SleepDuration_bin=Long
+0.21122994652406418,0.7596153846153847,1.578311965811966,"BP_bin=High, Stress_bin=Low",Quality_bin=Good
+0.16042780748663102,0.9230769230769231,1.576396206533193,"Activity_bin=High, Stress_bin=Medium",Sleep Disorder=None
+0.24331550802139038,0.9099999999999999,1.5756481481481481,"Sleep Disorder=None, Stress_bin=Medium",BMI Category=Normal
+0.17914438502673796,0.8589743589743589,1.5747863247863247,"BMI Category=Overweight, Stress_bin=High",Age_bin=Middle
+0.17379679144385027,0.6565656565656566,1.5740740740740742,"Age_bin=Middle, Gender=Female",Activity_bin=Moderate
+0.09358288770053476,0.7954545454545454,1.574074074074074,"Sleep Disorder=Insomnia, Stress_bin=High",Gender=Male
+0.09358288770053476,0.7954545454545454,1.574074074074074,"Activity_bin=Moderate, Stress_bin=Medium",Gender=Male
+0.1925133689839572,0.7659574468085106,1.5740004676174888,Age_bin=Young,Quality_bin=Medium
+0.12566844919786097,0.9215686274509804,1.573820395738204,"Age_bin=Young, Steps_bin=Medium",Sleep Disorder=None
+0.09358288770053476,0.9210526315789473,1.5729391973083393,"Activity_bin=High, Age_bin=Old",SleepDuration_bin=Long
+0.24598930481283424,0.92,1.5711415525114156,"Age_bin=Middle, BMI Category=Normal",Sleep Disorder=None
+0.24598930481283424,0.92,1.5711415525114156,"Sleep Disorder=None, Stress_bin=Medium",SleepDuration_bin=Long
+0.42780748663101603,0.9195402298850573,1.5703563743242532,"BMI Category=Normal, BP_bin=High",Sleep Disorder=None
+0.3315508021390374,0.8551724137931035,1.5678160919540232,"Activity_bin=Moderate, HR_bin=Normal",Age_bin=Middle
+0.20320855614973263,0.9047619047619048,1.56657848324515,"Age_bin=Young, Gender=Male",BMI Category=Normal
+0.10160427807486631,0.9047619047619048,1.56657848324515,"Quality_bin=Good, Steps_bin=Low",BMI Category=Normal
+0.10160427807486631,0.9047619047619048,1.56657848324515,"Steps_bin=Low, Stress_bin=Low",BMI Category=Normal
+0.1711229946524064,0.8533333333333333,1.5644444444444445,"Gender=Male, Quality_bin=Good",Age_bin=Middle
+0.1711229946524064,0.8533333333333333,1.5644444444444445,"Activity_bin=Moderate, SleepDuration_bin=Normal",Age_bin=Middle
+0.2620320855614973,0.9158878504672897,1.5641189775103486,"Steps_bin=Medium, Stress_bin=Medium",Sleep Disorder=None
+0.15508021390374332,0.8529411764705883,1.5637254901960786,"Sleep Disorder=Insomnia, SleepDuration_bin=Normal",Age_bin=Middle
+0.07754010695187166,0.8529411764705883,1.5637254901960786,"Gender=Female, Steps_bin=High",Age_bin=Middle
+0.07754010695187166,0.8529411764705883,1.5637254901960786,"Quality_bin=Medium, Steps_bin=High",Age_bin=Middle
+0.07754010695187166,0.8529411764705883,1.5637254901960786,"Steps_bin=High, Stress_bin=High",Age_bin=Middle
+0.07754010695187166,0.8529411764705883,1.5637254901960786,"Activity_bin=High, Steps_bin=High",Age_bin=Middle
+0.07754010695187166,0.8529411764705883,1.5637254901960786,"BP_bin=High, Steps_bin=High",Age_bin=Middle
+0.17379679144385027,0.9027777777777778,1.5631430041152263,"Age_bin=Young, Quality_bin=Medium",BMI Category=Normal
+0.20053475935828877,0.9146341463414634,1.5619779485466088,"Age_bin=Young, BMI Category=Normal",Sleep Disorder=None
+0.18983957219251338,0.6513761467889908,1.561632557045401,"Gender=Female, Steps_bin=Medium",Activity_bin=Moderate
+0.18983957219251338,0.6513761467889908,1.561632557045401,"BMI Category=Overweight, SleepDuration_bin=Normal",Activity_bin=Moderate
+0.25668449197860965,0.9142857142857144,1.5613829093281149,"HR_bin=Normal, Stress_bin=Medium",Sleep Disorder=None
+0.19786096256684493,0.6218487394957983,1.560882070949185,"Activity_bin=Moderate, BP_bin=High",SleepDuration_bin=Normal
+0.3609625668449198,0.9,1.5583333333333333,"Sleep Disorder=None, Steps_bin=Medium",BMI Category=Normal
+0.0962566844919786,0.9,1.5583333333333333,"Activity_bin=Low, Gender=Female",BMI Category=Normal
+0.27540106951871657,0.911504424778761,1.5566331272477472,Stress_bin=Medium,SleepDuration_bin=Long
+0.0748663101604278,0.8484848484848484,1.5555555555555556,"SleepDuration_bin=Normal, Steps_bin=High",Age_bin=Middle
+0.16310160427807488,0.9104477611940299,1.5548285967423159,"BMI Category=Normal, Steps_bin=Low",Sleep Disorder=None
+0.16310160427807488,0.9104477611940299,1.5548285967423159,"HR_bin=Normal, Steps_bin=Low",Sleep Disorder=None
+0.18983957219251338,0.9102564102564102,1.5545018147757874,"BMI Category=Normal, Gender=Female",Sleep Disorder=None
+0.16310160427807488,0.8970588235294118,1.553240740740741,"Activity_bin=Low, Steps_bin=Low",BMI Category=Normal
+0.08021390374331551,0.9090909090909091,1.552511415525114,"Age_bin=Old, Steps_bin=Low",Sleep Disorder=None
+0.08021390374331551,0.9090909090909091,1.552511415525114,"Age_bin=Old, Sleep Disorder=Sleep Apnea",SleepDuration_bin=Long
+0.2647058823529412,0.908256880733945,1.5510870931255498,"BP_bin=High, Stress_bin=Medium",SleepDuration_bin=Long
+0.19518716577540107,0.6134453781512605,1.55019305019305,"Activity_bin=Moderate, BP_bin=High",BMI Category=Overweight
+0.1711229946524064,0.6464646464646464,1.5498575498575498,"Age_bin=Middle, BMI Category=Overweight",Activity_bin=Moderate
+0.42780748663101603,0.8938547486033519,1.547692944340989,"BP_bin=High, Sleep Disorder=None",BMI Category=Normal
+0.15508021390374332,0.9062500000000001,1.5476598173515983,"Quality_bin=Good, Stress_bin=Medium",Sleep Disorder=None
+0.17379679144385027,0.8441558441558442,1.547619047619048,Sleep Disorder=Insomnia,Age_bin=Middle
+0.24598930481283424,0.8932038834951457,1.5465659834591874,"Age_bin=Middle, Sleep Disorder=None",BMI Category=Normal
+0.20320855614973263,0.9047619047619048,1.5451185040226136,"Age_bin=Young, Gender=Male",Sleep Disorder=None
+0.1711229946524064,0.8421052631578947,1.5438596491228072,"BP_bin=High, Sleep Disorder=Insomnia",Age_bin=Middle
+0.18449197860962566,0.8414634146341463,1.5426829268292683,"Activity_bin=Moderate, Quality_bin=Medium",Age_bin=Middle
+0.1925133689839572,0.7422680412371134,1.5422680412371135,"Steps_bin=Medium, Stress_bin=Low",Quality_bin=Good
+0.24866310160427807,0.9029126213592233,1.5419603670700892,"Age_bin=Middle, Sleep Disorder=None",SleepDuration_bin=Long
+0.24598930481283424,0.9019607843137256,1.5403348554033487,"Gender=Male, Stress_bin=Medium",Sleep Disorder=None
+0.3502673796791444,0.8397435897435898,1.5395299145299146,Activity_bin=Moderate,Age_bin=Middle
+0.3502673796791444,0.6421568627450981,1.5395299145299146,Age_bin=Middle,Activity_bin=Moderate
+0.19518716577540107,0.9012345679012346,1.5390946502057612,"Activity_bin=Moderate, SleepDuration_bin=Long",Sleep Disorder=None
+0.0855614973262032,0.8888888888888888,1.5390946502057612,"Sleep Disorder=None, Stress_bin=High",BMI Category=Normal
+0.24331550802139038,0.9009900990099009,1.5386771553867713,"Age_bin=Middle, Quality_bin=Good",Sleep Disorder=None
+0.09358288770053476,0.7608695652173912,1.5381903642773207,"SleepDuration_bin=Long, Steps_bin=Low",Gender=Female
+0.18181818181818182,0.6415094339622641,1.5379777455249153,"BMI Category=Overweight, Steps_bin=Medium",Activity_bin=Moderate
+0.1657754010695187,0.8378378378378377,1.536036036036036,"Gender=Female, Quality_bin=Medium",Age_bin=Middle
+0.1657754010695187,0.8378378378378377,1.536036036036036,"Activity_bin=Moderate, Quality_bin=Good",Age_bin=Middle
+0.3609625668449198,0.7758620689655172,1.535303776683087,"BMI Category=Normal, BP_bin=High",Gender=Male
+0.1657754010695187,0.8985507246376812,1.5345112831711998,"Activity_bin=Low, HR_bin=Normal",Sleep Disorder=None
+0.1711229946524064,0.6399999999999999,1.534358974358974,"Age_bin=Middle, BMI Category=Normal",Activity_bin=Moderate
+0.3315508021390374,0.6391752577319588,1.5323817076394397,"Age_bin=Middle, HR_bin=Normal",Activity_bin=Moderate
+0.1657754010695187,0.6391752577319588,1.5323817076394397,"Steps_bin=Medium, Stress_bin=Low",Activity_bin=Moderate
+0.16310160427807488,0.8970588235294118,1.5319634703196348,"Activity_bin=High, Gender=Male",Sleep Disorder=None
+0.16042780748663102,0.6060606060606061,1.5315315315315314,"Age_bin=Middle, Gender=Female",BMI Category=Overweight
+0.16042780748663102,0.8955223880597015,1.5293396033530975,"Activity_bin=Low, BMI Category=Normal",Sleep Disorder=None
+0.07754010695187166,0.7435897435897436,1.528036066497605,"Steps_bin=Low, Stress_bin=High",Quality_bin=Medium
+0.12032085561497326,0.8823529411764707,1.527777777777778,"Age_bin=Young, Steps_bin=Medium",BMI Category=Normal
+0.08021390374331551,0.8333333333333334,1.527777777777778,"Quality_bin=Medium, Sleep Disorder=Sleep Apnea",Age_bin=Middle
+0.3582887700534759,0.8933333333333333,1.525601217656012,"Sleep Disorder=None, Steps_bin=Medium",SleepDuration_bin=Long
+0.17914438502673796,0.8933333333333333,1.525601217656012,"Gender=Male, Quality_bin=Good",Sleep Disorder=None
+0.24598930481283424,0.8932038834951457,1.5253801480693354,"SleepDuration_bin=Long, Stress_bin=Medium",Sleep Disorder=None
+0.26737967914438504,0.892857142857143,1.5247879973907374,"Gender=Male, SleepDuration_bin=Long",Sleep Disorder=None
+0.2914438502673797,0.6022099447513812,1.521800806331193,"BP_bin=High, Quality_bin=Medium",BMI Category=Overweight
+0.16042780748663102,0.6060606060606061,1.5212527964205818,"Age_bin=Middle, Gender=Female",SleepDuration_bin=Normal
+0.19518716577540107,0.8902439024390244,1.5203252032520325,"Gender=Female, Sleep Disorder=None",SleepDuration_bin=Long
+0.07754010695187166,0.8285714285714286,1.5190476190476192,"Sleep Disorder=Sleep Apnea, SleepDuration_bin=Normal",Age_bin=Middle
+0.2727272727272727,0.7391304347826086,1.5188724319159101,"BMI Category=Overweight, HR_bin=Normal",Quality_bin=Medium
+0.0855614973262032,0.8888888888888888,1.5180111618467782,"Sleep Disorder=Sleep Apnea, Steps_bin=Medium",SleepDuration_bin=Long
+0.17914438502673796,0.8271604938271605,1.5164609053497944,"Activity_bin=Moderate, SleepDuration_bin=Long",Age_bin=Middle
+0.2727272727272727,0.6,1.516216216216216,"HR_bin=Normal, Quality_bin=Medium",BMI Category=Overweight
+0.17914438502673796,0.6320754716981132,1.5153604257377842,"Age_bin=Middle, SleepDuration_bin=Long",Activity_bin=Moderate
+0.2914438502673797,0.7364864864864864,1.5134392634392633,BMI Category=Overweight,Quality_bin=Medium
+0.2914438502673797,0.7364864864864864,1.5134392634392633,"BMI Category=Overweight, BP_bin=High",Quality_bin=Medium
+0.1657754010695187,0.8732394366197183,1.5119979134063641,"Age_bin=Middle, Stress_bin=Medium",BMI Category=Normal
+0.26737967914438504,0.8849557522123894,1.5112942982987838,Stress_bin=Medium,Sleep Disorder=None
+0.2192513368983957,0.8723404255319148,1.5104412923561858,Age_bin=Young,BMI Category=Normal
+0.20053475935828877,0.872093023255814,1.5100129198966408,"Activity_bin=Moderate, Sleep Disorder=None",BMI Category=Normal
+0.17647058823529413,0.6285714285714286,1.506959706959707,"Age_bin=Middle, Gender=Male",Activity_bin=Moderate
+0.18983957219251338,0.6283185840707965,1.5063535284774225,"Quality_bin=Medium, Steps_bin=Medium",Activity_bin=Moderate
+0.17914438502673796,0.881578947368421,1.5055275174236962,Age_bin=Old,SleepDuration_bin=Long
+0.17914438502673796,0.881578947368421,1.5055275174236962,"Age_bin=Old, Gender=Female",SleepDuration_bin=Long
+0.17914438502673796,0.881578947368421,1.5055275174236962,"Age_bin=Old, HR_bin=Normal",SleepDuration_bin=Long
+0.09893048128342247,0.8809523809523809,1.5044574907588606,"Quality_bin=Good, Steps_bin=Low",Sleep Disorder=None
+0.09893048128342247,0.8809523809523809,1.5044574907588606,"Steps_bin=Low, Stress_bin=Low",Sleep Disorder=None
+0.25668449197860965,0.8807339449541285,1.5040844539399272,"BP_bin=High, Stress_bin=Medium",Sleep Disorder=None
+0.21122994652406418,0.8681318681318682,1.5031542531542532,"Age_bin=Young, BP_bin=High",BMI Category=Normal
+0.2620320855614973,0.8672566371681416,1.5016388069485416,Stress_bin=Medium,BMI Category=Normal
+0.17379679144385027,0.8783783783783783,1.5000617055411574,"Age_bin=Old, BP_bin=High",SleepDuration_bin=Long
+0.0962566844919786,0.8181818181818181,1.5,"Activity_bin=Moderate, Stress_bin=High",Age_bin=Middle
+0.0962566844919786,0.8181818181818181,1.5,"Activity_bin=Moderate, Stress_bin=Medium",Age_bin=Middle
+0.0962566844919786,0.8780487804878049,1.4994988306047443,"Age_bin=Young, Stress_bin=Medium",SleepDuration_bin=Long
+0.18983957219251338,0.8658536585365855,1.499209575429088,"Gender=Female, Sleep Disorder=None",BMI Category=Normal
+0.24866310160427807,0.8773584905660377,1.4983199793228223,"Age_bin=Middle, SleepDuration_bin=Long",Sleep Disorder=None
+0.0855614973262032,0.7272727272727273,1.4945054945054945,"Activity_bin=Low, Stress_bin=High",Quality_bin=Medium
+0.17647058823529413,0.8148148148148149,1.4938271604938274,"Activity_bin=Moderate, Gender=Male",Age_bin=Middle
+0.25133689839572193,0.8623853211009175,1.4932042133876997,"BP_bin=High, Stress_bin=Medium",BMI Category=Normal
+0.08288770053475936,0.8611111111111112,1.4909979423868314,"Activity_bin=Low, Quality_bin=Medium",BMI Category=Normal
+0.27807486631016043,0.7172413793103448,1.4902681992337166,"BMI Category=Normal, Steps_bin=Medium",Quality_bin=Good
+0.2807486631016043,1.0,1.4900398406374502,"HR_bin=Normal, Stress_bin=Medium",Steps_bin=Medium
+0.2620320855614973,1.0,1.4900398406374502,"BMI Category=Normal, Stress_bin=Medium",Steps_bin=Medium
+0.17379679144385027,1.0,1.4900398406374502,"Activity_bin=High, Stress_bin=Medium",Steps_bin=Medium
+0.1711229946524064,1.0,1.4900398406374502,"Quality_bin=Good, Stress_bin=Medium",Steps_bin=Medium
+0.0962566844919786,1.0,1.4900398406374502,"Age_bin=Middle, BP_bin=Normal",Steps_bin=Medium
+0.0962566844919786,1.0,1.4900398406374502,"Activity_bin=Moderate, BP_bin=Normal",Steps_bin=Medium
+0.08823529411764706,1.0,1.4900398406374502,"Activity_bin=High, Age_bin=Young",Steps_bin=Medium
+0.06684491978609626,1.0,1.4900398406374502,"SleepDuration_bin=Normal, Stress_bin=Low",Steps_bin=Medium
+0.06684491978609626,1.0,1.4900398406374502,"Quality_bin=Medium, Stress_bin=Low",Steps_bin=Medium
+0.09893048128342247,0.8604651162790699,1.4898794142980192,"Age_bin=Young, SleepDuration_bin=Normal",BMI Category=Normal
+0.09893048128342247,0.8604651162790699,1.4898794142980192,"Age_bin=Young, Stress_bin=High",BMI Category=Normal
+0.09090909090909091,0.8717948717948718,1.488818639503571,"Quality_bin=Medium, SleepDuration_bin=Long",Sleep Disorder=None
+0.1711229946524064,0.8101265822784809,1.4852320675105484,"Activity_bin=Moderate, BMI Category=Normal",Age_bin=Middle
+0.0962566844919786,0.8571428571428571,1.4841269841269842,"Gender=Female, Steps_bin=Low",BMI Category=Normal
+0.3582887700534759,0.7486033519553073,1.481363246726375,"BP_bin=High, Sleep Disorder=None",Gender=Male
+0.25668449197860965,0.8067226890756304,1.4789915966386558,"Activity_bin=Moderate, BP_bin=High",Age_bin=Middle
+0.09358288770053476,0.853658536585366,1.478093947606143,"Age_bin=Young, Stress_bin=Medium",BMI Category=Normal
+0.09358288770053476,0.853658536585366,1.478093947606143,"Age_bin=Young, Steps_bin=Low",BMI Category=Normal
+0.07754010695187166,0.8055555555555556,1.476851851851852,Steps_bin=High,Age_bin=Middle
+0.07754010695187166,0.8055555555555556,1.476851851851852,"HR_bin=Normal, Steps_bin=High",Age_bin=Middle
+0.2647058823529412,0.99,1.4751394422310757,"Age_bin=Middle, BMI Category=Normal",Steps_bin=Medium
+0.10160427807486631,0.8636363636363636,1.4748858447488584,"Activity_bin=Moderate, Stress_bin=Medium",Sleep Disorder=None
+0.10160427807486631,0.8636363636363636,1.4748858447488584,"Activity_bin=Moderate, Stress_bin=Medium",SleepDuration_bin=Long
+0.08823529411764706,0.717391304347826,1.474199713330148,"Age_bin=Young, SleepDuration_bin=Long",Quality_bin=Medium
+0.1657754010695187,0.6138613861386137,1.4716933231784715,"Age_bin=Middle, Quality_bin=Good",Activity_bin=Moderate
+0.08288770053475936,0.8611111111111112,1.4705733130390666,"Activity_bin=Low, Quality_bin=Medium",Sleep Disorder=None
+0.16042780748663102,0.8,1.4666666666666668,"Gender=Female, SleepDuration_bin=Normal",Age_bin=Middle
+0.08823529411764706,0.8461538461538463,1.4650997150997154,"Quality_bin=Medium, SleepDuration_bin=Long",BMI Category=Normal
+0.08288770053475936,0.7045454545454546,1.463888888888889,"Activity_bin=Moderate, Stress_bin=Medium",Quality_bin=Good
+0.11229946524064172,0.8571428571428572,1.4637964774951078,"Quality_bin=Medium, Stress_bin=Medium",Sleep Disorder=None
+0.2620320855614973,0.9799999999999999,1.460239043824701,"Sleep Disorder=None, Stress_bin=Medium",Steps_bin=Medium
+0.1657754010695187,0.7948717948717948,1.4572649572649572,"SleepDuration_bin=Normal, Steps_bin=Medium",Age_bin=Middle
+0.21390374331550802,0.851063829787234,1.453414942193724,Age_bin=Young,Sleep Disorder=None
+0.19786096256684493,0.6981132075471698,1.450524109014675,"Activity_bin=High, SleepDuration_bin=Long",Quality_bin=Good
+0.2647058823529412,0.7173913043478262,1.4502937720329028,"BMI Category=Overweight, HR_bin=Normal",Gender=Female
+0.17914438502673796,0.8375,1.4501157407407408,Activity_bin=Low,BMI Category=Normal
+0.17914438502673796,0.8375,1.4501157407407408,"Activity_bin=Low, BP_bin=High",BMI Category=Normal
+0.18181818181818182,0.7906976744186046,1.4496124031007753,"Activity_bin=Moderate, Sleep Disorder=None",Age_bin=Middle
+0.19518716577540107,0.8488372093023255,1.449612403100775,"Activity_bin=Moderate, Sleep Disorder=None",SleepDuration_bin=Long
+0.28342245989304815,0.7162162162162162,1.447918188458729,BMI Category=Overweight,Gender=Female
+0.28342245989304815,0.7162162162162162,1.447918188458729,"BMI Category=Overweight, BP_bin=High",Gender=Female
+0.18181818181818182,0.9714285714285714,1.4474672737620944,"Activity_bin=High, BMI Category=Normal",Steps_bin=Medium
+0.17647058823529413,0.9705882352941176,1.4462151394422311,"Activity_bin=High, Gender=Male",Steps_bin=Medium
+0.2620320855614973,0.9702970297029702,1.4457812315096048,"Age_bin=Middle, Quality_bin=Good",Steps_bin=Medium
+0.08823529411764706,0.8461538461538463,1.4450298559887602,"BMI Category=Normal, SleepDuration_bin=Normal",Sleep Disorder=None
+0.20588235294117646,0.8461538461538461,1.44502985598876,"Age_bin=Young, BP_bin=High",Sleep Disorder=None
+0.16042780748663102,0.8450704225352113,1.4431796256994018,"Age_bin=Middle, Stress_bin=Medium",Sleep Disorder=None
+0.15240641711229946,0.9661016949152543,1.439530015531096,"BMI Category=Overweight, Stress_bin=Low",Steps_bin=Medium
+0.4732620320855615,0.8309859154929579,1.438836724047992,"HR_bin=Normal, SleepDuration_bin=Long",BMI Category=Normal
+0.0855614973262032,0.8421052631578947,1.438115837539053,"BMI Category=Normal, Stress_bin=High",Sleep Disorder=None
+0.0855614973262032,0.8421052631578947,1.438115837539053,"Age_bin=Old, Steps_bin=Medium",SleepDuration_bin=Long
+0.2807486631016043,0.7241379310344828,1.432950191570881,"BMI Category=Normal, Steps_bin=Medium",Gender=Male
+0.2647058823529412,0.9611650485436893,1.432174215758326,"Age_bin=Middle, Sleep Disorder=None",Steps_bin=Medium
+0.2647058823529412,0.9611650485436893,1.432174215758326,"SleepDuration_bin=Long, Stress_bin=Medium",Steps_bin=Medium
+0.2620320855614973,0.9607843137254902,1.4316069057104914,"Gender=Male, Stress_bin=Medium",Steps_bin=Medium
+0.06417112299465241,0.9600000000000001,1.4304382470119523,"Sleep Disorder=Insomnia, Stress_bin=Low",Steps_bin=Medium
+0.10160427807486631,0.8260869565217391,1.4303542673107892,"SleepDuration_bin=Long, Steps_bin=Low",BMI Category=Normal
+0.0962566844919786,0.8372093023255813,1.4297546989487095,"Age_bin=Young, SleepDuration_bin=Normal",Sleep Disorder=None
+0.446524064171123,0.835,1.4259817351598172,"BMI Category=Normal, Sleep Disorder=None",SleepDuration_bin=Long
+0.4732620320855615,0.8349056603773585,1.4258206254846213,"BMI Category=Normal, HR_bin=Normal",SleepDuration_bin=Long
+0.09358288770053476,0.8333333333333333,1.4231354642313545,"Gender=Female, Steps_bin=Low",SleepDuration_bin=Long
+0.1657754010695187,0.9538461538461538,1.4212687710695677,"Age_bin=Middle, Stress_bin=Low",Steps_bin=Medium
+0.16042780748663102,0.9523809523809523,1.4190855625118572,"Activity_bin=Moderate, Sleep Disorder=Insomnia",Steps_bin=Medium
+0.10427807486631016,0.951219512195122,1.4173549703624526,BP_bin=Normal,Steps_bin=Medium
+0.10427807486631016,0.951219512195122,1.4173549703624526,"BMI Category=Normal, BP_bin=Normal",Steps_bin=Medium
+0.10427807486631016,0.951219512195122,1.4173549703624526,"Age_bin=Young, Stress_bin=Medium",Steps_bin=Medium
+0.10427807486631016,0.951219512195122,1.4173549703624526,"BP_bin=Normal, HR_bin=Normal",Steps_bin=Medium
+0.08288770053475936,0.6888888888888889,1.4156288156288157,"Gender=Male, Steps_bin=Low",Quality_bin=Medium
+0.10160427807486631,0.9500000000000001,1.4155378486055779,"BP_bin=Normal, SleepDuration_bin=Long",Steps_bin=Medium
+0.10160427807486631,0.9500000000000001,1.4155378486055779,"BP_bin=Normal, Quality_bin=Good",Steps_bin=Medium
+0.09893048128342247,0.9487179487179488,1.413627541117581,"BP_bin=Normal, Gender=Female",Steps_bin=Medium
+0.09893048128342247,0.9487179487179488,1.413627541117581,"BP_bin=Normal, Sleep Disorder=None",Steps_bin=Medium
+0.18181818181818182,0.6799999999999999,1.4128888888888889,"Activity_bin=High, Steps_bin=Medium",Quality_bin=Good
+0.3850267379679144,0.6792452830188679,1.411320754716981,"BMI Category=Normal, HR_bin=Normal",Quality_bin=Good
+0.28609625668449196,0.9469026548672566,1.4109226809575854,Stress_bin=Medium,Steps_bin=Medium
+0.18983957219251338,0.9466666666666668,1.4105710491367862,"Activity_bin=Moderate, Gender=Female",Steps_bin=Medium
+0.3315508021390374,0.9465648854961831,1.410419391137739,"Activity_bin=Moderate, Age_bin=Middle",Steps_bin=Medium
+0.09358288770053476,0.9459459459459458,1.4094971465489392,"BP_bin=Normal, Stress_bin=Low",Steps_bin=Medium
+0.09358288770053476,0.813953488372093,1.4093453919035315,"Activity_bin=Low, Age_bin=Young",BMI Category=Normal
+0.09358288770053476,0.813953488372093,1.4093453919035315,"Activity_bin=Low, SleepDuration_bin=Normal",BMI Category=Normal
+0.27540106951871657,0.944954128440367,1.408019298950985,"BP_bin=High, Stress_bin=Medium",Steps_bin=Medium
+0.3663101604278075,0.9448275862068967,1.407830745981591,"Activity_bin=Moderate, HR_bin=Normal",Steps_bin=Medium
+0.09090909090909091,0.9444444444444445,1.4072598494909252,"BMI Category=Overweight, SleepDuration_bin=Long",Steps_bin=Medium
+0.17379679144385027,0.8125,1.4068287037037037,"Quality_bin=Medium, Sleep Disorder=None",BMI Category=Normal
+0.17914438502673796,0.9436619718309859,1.4060939341226641,"Activity_bin=High, Sleep Disorder=None",Steps_bin=Medium
+0.17914438502673796,0.9436619718309859,1.4060939341226641,"Age_bin=Middle, Stress_bin=Medium",Steps_bin=Medium
+0.26737967914438504,0.9433962264150944,1.405697962865519,"Age_bin=Middle, SleepDuration_bin=Long",Steps_bin=Medium
+0.26737967914438504,0.9433962264150944,1.405697962865519,"Activity_bin=High, SleepDuration_bin=Long",Steps_bin=Medium
+0.31016042780748665,0.822695035460993,1.4049677774539333,Stress_bin=Low,SleepDuration_bin=Long
+0.17379679144385027,0.9420289855072465,1.4036607194410764,"HR_bin=Normal, Sleep Disorder=Insomnia",Steps_bin=Medium
+0.0748663101604278,0.6829268292682926,1.4033771106941837,"Age_bin=Young, Steps_bin=Low",Quality_bin=Medium
+0.3609625668449198,0.6749999999999999,1.4024999999999999,"BMI Category=Normal, Sleep Disorder=None",Quality_bin=Good
+0.0855614973262032,0.9411764705882352,1.4023904382470118,"BMI Category=Overweight, Quality_bin=Good",Steps_bin=Medium
+0.3850267379679144,0.8089887640449438,1.400749063670412,"HR_bin=Normal, Quality_bin=Good",BMI Category=Normal
+0.3048128342245989,0.8201438848920863,1.4006110180348872,"HR_bin=Normal, Stress_bin=Low",SleepDuration_bin=Long
+0.4732620320855615,0.8194444444444445,1.399416539827499,BMI Category=Normal,SleepDuration_bin=Long
+0.4732620320855615,0.8082191780821918,1.3994165398274987,SleepDuration_bin=Long,BMI Category=Normal
+0.21657754010695188,0.680672268907563,1.3987441130298273,"Activity_bin=Moderate, BP_bin=High",Quality_bin=Medium
+0.16042780748663102,0.9375000000000001,1.3969123505976098,"BMI Category=Overweight, Sleep Disorder=Insomnia",Steps_bin=Medium
+0.1925133689839572,0.6792452830188679,1.3958117354343769,"BMI Category=Overweight, Steps_bin=Medium",Quality_bin=Medium
+0.20053475935828877,0.6696428571428572,1.391369047619048,"Gender=Male, SleepDuration_bin=Long",Quality_bin=Good
+0.18181818181818182,0.9315068493150686,1.387982317306118,"Activity_bin=Moderate, BMI Category=Overweight",Steps_bin=Medium
+0.3663101604278075,0.8011695906432749,1.3872103097249298,"SleepDuration_bin=Long, Steps_bin=Medium",BMI Category=Normal
+0.4625668449197861,0.8122065727699531,1.3870559735888697,"HR_bin=Normal, SleepDuration_bin=Long",Sleep Disorder=None
+0.3850267379679144,0.8,1.3851851851851853,Quality_bin=Good,BMI Category=Normal
+0.3850267379679144,0.8,1.3851851851851853,"Quality_bin=Good, SleepDuration_bin=Long",BMI Category=Normal
+0.26737967914438504,0.6666666666666667,1.3851851851851853,"Sleep Disorder=None, Steps_bin=Medium",Quality_bin=Good
+0.03208556149732621,0.6666666666666667,1.3851851851851853,"Activity_bin=Moderate, Age_bin=Young",Quality_bin=Good
+0.3850267379679144,0.6666666666666666,1.385185185185185,BMI Category=Normal,Quality_bin=Good
+0.14705882352941177,0.8088235294117647,1.3812785388127853,"Activity_bin=Low, Steps_bin=Low",Sleep Disorder=None
+0.09358288770053476,0.7954545454545454,1.3773148148148149,"Activity_bin=Low, Stress_bin=High",BMI Category=Normal
+0.25935828877005346,0.9238095238095237,1.3765129956365014,"Age_bin=Middle, Gender=Male",Steps_bin=Medium
+0.18983957219251338,0.6698113207547169,1.3764254613311215,"BMI Category=Overweight, Gender=Female",Quality_bin=Medium
+0.08823529411764706,0.7500000000000001,1.3750000000000002,"Sleep Disorder=Insomnia, Stress_bin=High",Age_bin=Middle
+0.08021390374331551,0.75,1.375,"Sleep Disorder=Sleep Apnea, Stress_bin=High",Age_bin=Middle
+0.07219251336898395,0.75,1.375,"Gender=Female, Sleep Disorder=Insomnia",Age_bin=Middle
+0.27540106951871657,0.8046875,1.3742151826484017,"Gender=Female, Stress_bin=Low",SleepDuration_bin=Long
+0.4625668449197861,0.8046511627906977,1.3741531273229266,"HR_bin=Normal, Sleep Disorder=None",SleepDuration_bin=Long
+0.09893048128342247,0.8043478260869565,1.3736351002580902,"SleepDuration_bin=Long, Steps_bin=Low",Sleep Disorder=None
+0.27807486631016043,0.6933333333333334,1.3719929453262787,"Sleep Disorder=None, Steps_bin=Medium",Gender=Male
+0.18181818181818182,0.9189189189189189,1.369225799504684,"Activity_bin=High, Quality_bin=Good",Steps_bin=Medium
+0.18181818181818182,0.9189189189189189,1.369225799504684,"Activity_bin=Moderate, Quality_bin=Good",Steps_bin=Medium
+0.0855614973262032,0.7999999999999999,1.3662100456621002,"Activity_bin=Low, Gender=Female",SleepDuration_bin=Long
+0.10427807486631016,0.7959183673469388,1.3592395862454572,"Quality_bin=Medium, Stress_bin=Medium",SleepDuration_bin=Long
+0.1657754010695187,0.9117647058823529,1.3585657370517927,"Activity_bin=Moderate, Stress_bin=Low",Steps_bin=Medium
+0.1711229946524064,0.6530612244897959,1.3569160997732426,"BMI Category=Normal, Stress_bin=Medium",Quality_bin=Good
+0.16042780748663102,0.9090909090909091,1.3545816733067728,"Quality_bin=Medium, Sleep Disorder=Insomnia",Steps_bin=Medium
+0.15775401069518716,0.9076923076923077,1.3524977015016855,"Age_bin=Middle, Sleep Disorder=Insomnia",Steps_bin=Medium
+0.18181818181818182,0.9066666666666667,1.3509694555112883,"Activity_bin=Moderate, SleepDuration_bin=Normal",Steps_bin=Medium
+0.3689839572192513,0.7796610169491525,1.349968612680477,"Gender=Male, HR_bin=Normal",BMI Category=Normal
+0.4625668449197861,0.7899543378995434,1.3490544400658868,SleepDuration_bin=Long,Sleep Disorder=None
+0.4625668449197861,0.7899543378995434,1.3490544400658868,Sleep Disorder=None,SleepDuration_bin=Long
+0.0374331550802139,0.7777777777777778,1.3467078189300412,"Activity_bin=Moderate, Age_bin=Young",BMI Category=Normal
+0.2700534759358289,0.9017857142857144,1.343696642003415,"Gender=Male, SleepDuration_bin=Long",Steps_bin=Medium
+0.3716577540106952,0.6465116279069768,1.343307493540052,"HR_bin=Normal, Sleep Disorder=None",Quality_bin=Good
+0.08288770053475936,0.775,1.3418981481481482,"Activity_bin=Low, Gender=Male",BMI Category=Normal
+0.08823529411764706,0.7857142857142857,1.3418134377038486,"Age_bin=Old, BMI Category=Overweight",SleepDuration_bin=Long
+0.18983957219251338,0.8987341772151899,1.3391497301931514,"Activity_bin=Moderate, BMI Category=Normal",Steps_bin=Medium
+0.3582887700534759,0.783625730994152,1.3382466821543966,"SleepDuration_bin=Long, Steps_bin=Medium",Sleep Disorder=None
+0.09358288770053476,0.8974358974358975,1.3372152415977117,"Quality_bin=Medium, SleepDuration_bin=Long",Steps_bin=Medium
+0.36363636363636365,0.7816091954022988,1.3348029181756154,"BMI Category=Normal, BP_bin=High",SleepDuration_bin=Long
+0.3716577540106952,0.7808988764044943,1.333589861987584,"HR_bin=Normal, Quality_bin=Good",Sleep Disorder=None
+0.17914438502673796,0.7701149425287356,1.333439761600681,Steps_bin=Low,BMI Category=Normal
+0.17914438502673796,0.7701149425287356,1.333439761600681,"BP_bin=High, Steps_bin=Low",BMI Category=Normal
+0.17914438502673796,0.8933333333333333,1.3311022576361222,"Gender=Male, Quality_bin=Good",Steps_bin=Medium
+0.3716577540106952,0.891025641025641,1.327663704157728,Activity_bin=Moderate,Steps_bin=Medium
+0.0855614973262032,0.8888888888888888,1.3244798583444,"Gender=Female, Sleep Disorder=Insomnia",Steps_bin=Medium
+0.27807486631016043,0.7647058823529411,1.324074074074074,"Quality_bin=Good, Steps_bin=Medium",BMI Category=Normal
+0.1657754010695187,0.775,1.3235159817351598,Activity_bin=Low,Sleep Disorder=None
+0.1657754010695187,0.775,1.3235159817351598,"Activity_bin=Low, BP_bin=High",Sleep Disorder=None
+0.08288770053475936,0.775,1.3235159817351598,"Activity_bin=Low, Gender=Female",Sleep Disorder=None
+0.08288770053475936,0.775,1.3235159817351598,"Activity_bin=Low, Gender=Male",Sleep Disorder=None
+0.36363636363636365,0.7640449438202247,1.322929671244278,"BP_bin=High, SleepDuration_bin=Long",BMI Category=Normal
+0.07754010695187166,0.7631578947368421,1.321393762183236,"SleepDuration_bin=Normal, Steps_bin=Low",BMI Category=Normal
+0.2620320855614973,0.7205882352941176,1.3210784313725492,"Quality_bin=Good, Steps_bin=Medium",Age_bin=Middle
+0.10427807486631016,0.8863636363636364,1.3207171314741035,"Activity_bin=Moderate, Stress_bin=High",Steps_bin=Medium
+0.08288770053475936,0.8857142857142857,1.3197495731360271,"Quality_bin=Good, Sleep Disorder=Sleep Apnea",Steps_bin=Medium
+0.3716577540106952,0.7722222222222223,1.3187721968543886,Quality_bin=Good,Sleep Disorder=None
+0.3716577540106952,0.7722222222222223,1.3187721968543886,"Quality_bin=Good, SleepDuration_bin=Long",Sleep Disorder=None
+0.3716577540106952,0.634703196347032,1.3187721968543886,Sleep Disorder=None,Quality_bin=Good
+0.18983957219251338,0.6513761467889908,1.316836102157203,"BMI Category=Overweight, Quality_bin=Medium",Gender=Female
+0.20320855614973263,0.8837209302325582,1.3167793940517,"Activity_bin=Moderate, Sleep Disorder=None",Steps_bin=Medium
+0.18449197860962566,0.650943396226415,1.3159612442631308,"BMI Category=Overweight, Steps_bin=Medium",Gender=Female
+0.18449197860962566,0.6330275229357798,1.3152905198776759,"Gender=Female, Steps_bin=Medium",Quality_bin=Good
+0.16042780748663102,0.8823529411764706,1.3147410358565736,"Sleep Disorder=Insomnia, SleepDuration_bin=Normal",Steps_bin=Medium
+0.11497326203208556,0.6323529411764706,1.3138888888888889,"Activity_bin=Moderate, Stress_bin=Low",Quality_bin=Good
+0.20053475935828877,0.6637168141592921,1.3133867116168,"Quality_bin=Medium, Steps_bin=Medium",Gender=Male
+0.09893048128342247,0.8809523809523809,1.312654145323468,"BMI Category=Overweight, Gender=Male",Steps_bin=Medium
+0.09893048128342247,0.8809523809523809,1.312654145323468,"Age_bin=Old, BMI Category=Overweight",Steps_bin=Medium
+0.36363636363636365,0.768361581920904,1.3121791399014524,"Gender=Male, HR_bin=Normal",Sleep Disorder=None
+0.28342245989304815,0.7681159420289856,1.3117596452915097,Activity_bin=High,SleepDuration_bin=Long
+0.07754010695187166,0.8787878787878788,1.3094289508632138,"Sleep Disorder=Sleep Apnea, Stress_bin=Low",Steps_bin=Medium
+0.11497326203208556,0.8775510204081634,1.3075859826002114,"Quality_bin=Medium, Stress_bin=Medium",Steps_bin=Medium
+0.18983957219251338,0.8765432098765432,1.3060843047562836,"Activity_bin=Moderate, SleepDuration_bin=Long",Steps_bin=Medium
+0.17647058823529413,0.66,1.306031746031746,"Activity_bin=High, Steps_bin=Medium",Gender=Male
+0.10427807486631016,0.7647058823529412,1.3059360730593608,"Age_bin=Young, Steps_bin=Medium",SleepDuration_bin=Long
+0.27807486631016043,0.7647058823529411,1.3059360730593605,"Activity_bin=High, HR_bin=Normal",SleepDuration_bin=Long
+0.3716577540106952,0.6587677725118483,1.3035933699440807,"BP_bin=High, Steps_bin=Medium",Gender=Male
+0.0855614973262032,0.7619047619047619,1.3011524244400956,"Gender=Female, Steps_bin=Low",Sleep Disorder=None
+0.08823529411764706,0.7500000000000001,1.2986111111111114,"Activity_bin=Moderate, Stress_bin=Medium",BMI Category=Normal
+0.18716577540106952,0.6422018348623854,1.2982891148028763,"BMI Category=Overweight, SleepDuration_bin=Normal",Gender=Female
+0.21122994652406418,0.7596153846153847,1.2972427116262735,"BP_bin=High, Stress_bin=Low",SleepDuration_bin=Long
+0.20855614973262032,0.6554621848739496,1.2970521541950113,"Activity_bin=Moderate, BP_bin=High",Gender=Male
+0.2700534759358289,0.7593984962406016,1.2968723177807535,"Activity_bin=High, BP_bin=High",SleepDuration_bin=Long
+0.08288770053475936,0.7560975609756098,1.2912351041318633,"Age_bin=Young, Steps_bin=Low",Sleep Disorder=None
+0.1711229946524064,0.6213592233009708,1.2910463861920172,"SleepDuration_bin=Long, Stress_bin=Medium",Quality_bin=Good
+0.18983957219251338,0.8658536585365855,1.290156447381207,"Activity_bin=Moderate, Quality_bin=Medium",Steps_bin=Medium
+0.3689839572192513,0.650943396226415,1.2881102126385142,"BMI Category=Normal, HR_bin=Normal",Gender=Male
+0.07754010695187166,0.7435897435897436,1.2875118708452042,"Steps_bin=Low, Stress_bin=High",BMI Category=Normal
+0.08823529411764706,0.7021276595744681,1.2872340425531916,"Steps_bin=Medium, Stress_bin=High",Age_bin=Middle
+0.27807486631016043,0.7536231884057971,1.2870094633048772,"BMI Category=Normal, Gender=Male",SleepDuration_bin=Long
+0.1657754010695187,0.6262626262626262,1.2869352869352868,"Age_bin=Middle, Gender=Female",Quality_bin=Medium
+0.10160427807486631,0.8636363636363636,1.2868525896414342,"Activity_bin=Moderate, Stress_bin=Medium",Steps_bin=Medium
+0.3582887700534759,0.7528089887640449,1.2856190036427069,"BP_bin=High, SleepDuration_bin=Long",Sleep Disorder=None
+0.27540106951871657,0.7410071942446044,1.2830402344790834,"BP_bin=High, Quality_bin=Good",BMI Category=Normal
+0.2807486631016043,0.7394366197183099,1.280320813771518,"Gender=Male, Steps_bin=Medium",BMI Category=Normal
+0.10695187165775401,0.6153846153846154,1.2786324786324788,"Age_bin=Middle, Stress_bin=Low",Quality_bin=Good
+0.3582887700534759,0.7486033519553073,1.2784367745720773,"BP_bin=High, Sleep Disorder=None",SleepDuration_bin=Long
+0.2727272727272727,0.8571428571428571,1.2771770062606715,"Activity_bin=Moderate, BP_bin=High",Steps_bin=Medium
+0.3449197860962567,0.6449999999999999,1.2763492063492061,"BMI Category=Normal, Sleep Disorder=None",Gender=Male
+0.09358288770053476,0.853658536585366,1.2719852298124577,"Activity_bin=High, Stress_bin=Low",Steps_bin=Medium
+0.18181818181818182,0.6415094339622641,1.2694419486872315,"Age_bin=Middle, SleepDuration_bin=Long",Gender=Male
+0.18181818181818182,0.6415094339622641,1.2694419486872315,"Activity_bin=High, SleepDuration_bin=Long",Gender=Male
+0.18181818181818182,0.6415094339622641,1.2694419486872315,"HR_bin=Normal, Stress_bin=High",Gender=Male
+0.06951871657754011,0.7428571428571429,1.2686236138290934,"Quality_bin=Medium, Steps_bin=Low",Sleep Disorder=None
+0.1925133689839572,0.7422680412371134,1.2676175681400932,"Steps_bin=Medium, Stress_bin=Low",SleepDuration_bin=Long
+0.1711229946524064,0.6095238095238095,1.2664550264550265,"Age_bin=Middle, Gender=Male",Quality_bin=Good
+0.1711229946524064,0.6095238095238095,1.2664550264550265,"HR_bin=Normal, Stress_bin=Medium",Quality_bin=Good
+0.0748663101604278,0.8484848484848484,1.2642762284196545,"Age_bin=Old, Sleep Disorder=Sleep Apnea",Steps_bin=Medium
+0.3689839572192513,0.7301587301587301,1.2642563198118753,Gender=Male,BMI Category=Normal
+0.3689839572192513,0.6388888888888888,1.2642563198118753,BMI Category=Normal,Gender=Male
+0.10427807486631016,0.8478260869565217,1.2632946474969686,"Age_bin=Young, SleepDuration_bin=Long",Steps_bin=Medium
+0.1657754010695187,0.607843137254902,1.262962962962963,"Gender=Male, Stress_bin=Medium",Quality_bin=Good
+0.2807486631016043,0.6069364161849711,1.2610789980732178,"Gender=Female, HR_bin=Normal",Quality_bin=Good
+0.17379679144385027,0.8441558441558442,1.2578258394991464,Sleep Disorder=Insomnia,Steps_bin=Medium
+0.2620320855614973,0.6049382716049383,1.2569272976680386,"Age_bin=Middle, Steps_bin=Medium",Quality_bin=Good
+0.3609625668449198,0.7258064516129032,1.256720430107527,"BP_bin=High, Gender=Male",BMI Category=Normal
+0.26737967914438504,0.7352941176470589,1.2557077625570776,"Quality_bin=Good, Steps_bin=Medium",Sleep Disorder=None
+0.1711229946524064,0.8421052631578947,1.2547703921157474,"BP_bin=High, Sleep Disorder=Insomnia",Steps_bin=Medium
+0.0855614973262032,0.8421052631578947,1.2547703921157474,"Sleep Disorder=Sleep Apnea, SleepDuration_bin=Long",Steps_bin=Medium
+0.1711229946524064,0.6336633663366336,1.2539158677772537,"Age_bin=Middle, Quality_bin=Good",Gender=Male
+0.1657754010695187,0.62,1.2534054054054053,"Age_bin=Middle, Quality_bin=Medium",Gender=Female
+0.25935828877005346,0.6830985915492956,1.2523474178403755,"Gender=Male, Steps_bin=Medium",Age_bin=Middle
+0.36363636363636365,0.6325581395348838,1.2517288052171776,"HR_bin=Normal, Sleep Disorder=None",Gender=Male
+0.2647058823529412,0.6827586206896552,1.2517241379310347,"BMI Category=Normal, Steps_bin=Medium",Age_bin=Middle
+0.18181818181818182,0.8395061728395061,1.2508976439919335,"Activity_bin=Moderate, Gender=Male",Steps_bin=Medium
+0.27807486631016043,0.732394366197183,1.2507556756061482,"Gender=Male, Steps_bin=Medium",Sleep Disorder=None
+0.16042780748663102,0.6185567010309279,1.250487601003065,"Age_bin=Middle, SleepDuration_bin=Normal",Gender=Female
+0.25133689839572193,0.6811594202898551,1.2487922705314012,"BMI Category=Overweight, HR_bin=Normal",Age_bin=Middle
+0.2620320855614973,0.6805555555555556,1.2476851851851853,"BMI Category=Normal, Quality_bin=Good",Age_bin=Middle
+0.26737967914438504,0.7299270072992701,1.24654201246542,"Gender=Male, Sleep Disorder=None",SleepDuration_bin=Long
+0.18181818181818182,0.6296296296296297,1.245933764452283,"Quality_bin=Medium, Stress_bin=High",Gender=Male
+0.43315508021390375,0.8350515463917526,1.2442600731096234,"Age_bin=Middle, HR_bin=Normal",Steps_bin=Medium
+0.08823529411764706,0.717391304347826,1.2421497584541064,"Sleep Disorder=None, SleepDuration_bin=Normal",BMI Category=Normal
+0.24598930481283424,0.6764705882352942,1.2401960784313728,"HR_bin=Normal, SleepDuration_bin=Normal",Age_bin=Middle
+0.3663101604278075,0.7248677248677249,1.2379019593631466,Gender=Male,Sleep Disorder=None
+0.3663101604278075,0.6255707762557078,1.2379019593631466,Sleep Disorder=None,Gender=Male
+0.06684491978609626,0.7142857142857143,1.2367724867724867,"Quality_bin=Medium, Steps_bin=Low",BMI Category=Normal
+0.16844919786096257,0.7241379310344828,1.2366556447803496,Steps_bin=Low,Sleep Disorder=None
+0.16844919786096257,0.7241379310344828,1.2366556447803496,"BP_bin=High, Steps_bin=Low",Sleep Disorder=None
+0.08288770053475936,0.6739130434782609,1.2355072463768118,"Gender=Female, Stress_bin=High",Age_bin=Middle
+0.034759358288770054,0.7222222222222222,1.2333840690005073,"Activity_bin=Moderate, Age_bin=Young",SleepDuration_bin=Long
+0.18983957219251338,0.6228070175438597,1.2324329341873201,"SleepDuration_bin=Normal, Stress_bin=High",Gender=Male
+0.08288770053475936,0.7209302325581395,1.2311776574280555,"Age_bin=Young, Stress_bin=High",Sleep Disorder=None
+0.08288770053475936,0.7209302325581395,1.2311776574280555,"Activity_bin=Low, Age_bin=Young",Sleep Disorder=None
+0.08288770053475936,0.7209302325581395,1.2311776574280555,"Activity_bin=Low, SleepDuration_bin=Normal",Sleep Disorder=None
+0.3582887700534759,0.7204301075268817,1.2303235626258162,"BP_bin=High, Gender=Male",Sleep Disorder=None
+0.26737967914438504,0.7194244604316548,1.2286061561709538,"BP_bin=High, Quality_bin=Good",Sleep Disorder=None
+0.1657754010695187,0.62,1.226878306878307,"Age_bin=Middle, BMI Category=Normal",Gender=Male
+0.2647058823529412,0.6689189189189189,1.2263513513513513,BMI Category=Overweight,Age_bin=Middle
+0.2647058823529412,0.6689189189189189,1.2263513513513513,"BMI Category=Overweight, BP_bin=High",Age_bin=Middle
+0.16042780748663102,0.6060606060606061,1.2252252252252254,"Age_bin=Middle, BMI Category=Overweight",Gender=Female
+0.29411764705882354,0.6179775280898876,1.2228761666963912,"BP_bin=High, SleepDuration_bin=Long",Gender=Male
+0.27540106951871657,0.6167664670658682,1.2204796755694958,"Age_bin=Middle, BP_bin=High",Gender=Male
+0.19786096256684493,0.6166666666666667,1.2202821869488536,Stress_bin=High,Gender=Male
+0.08288770053475936,0.8157894736842105,1.2155588173621303,"Activity_bin=High, Age_bin=Old",Steps_bin=Medium
+0.2700534759358289,0.7112676056338029,1.2146761849636634,"Gender=Male, Steps_bin=Medium",SleepDuration_bin=Long
+0.19518716577540107,0.6134453781512605,1.213907785336357,"BP_bin=High, Stress_bin=High",Gender=Male
+0.25133689839572193,0.6619718309859155,1.2136150234741785,"Quality_bin=Medium, SleepDuration_bin=Normal",Age_bin=Middle
+0.2647058823529412,0.66,1.2100000000000002,"Sleep Disorder=None, Steps_bin=Medium",Age_bin=Middle
+0.43315508021390375,0.6558704453441296,1.202429149797571,"HR_bin=Normal, Steps_bin=Medium",Age_bin=Middle
+0.09090909090909091,0.6938775510204082,1.2014361300075587,"Quality_bin=Medium, Stress_bin=Medium",BMI Category=Normal
+0.24331550802139038,0.6546762589928058,1.2002398081534773,"Quality_bin=Good, Sleep Disorder=None",Age_bin=Middle
+0.08823529411764706,0.8048780487804879,1.19930035953746,"Gender=Male, Sleep Disorder=Insomnia",Steps_bin=Medium
+0.4572192513368984,0.8028169014084507,1.1962291678356995,"HR_bin=Normal, SleepDuration_bin=Long",Steps_bin=Medium
+0.37967914438502676,0.8022598870056498,1.1953991941837172,"Gender=Male, HR_bin=Normal",Steps_bin=Medium
+0.21390374331550802,0.689655172413793,1.194125159642401,"SleepDuration_bin=Long, Stress_bin=Low",BMI Category=Normal
+0.21390374331550802,0.689655172413793,1.194125159642401,"Quality_bin=Good, Stress_bin=Low",BMI Category=Normal
+0.25935828877005346,0.6510067114093959,1.1935123042505593,SleepDuration_bin=Normal,Age_bin=Middle
+0.08288770053475936,0.6888888888888889,1.192798353909465,"Gender=Male, Steps_bin=Low",BMI Category=Normal
+0.21657754010695188,0.6982758620689655,1.1924893717524798,"SleepDuration_bin=Long, Stress_bin=Low",Sleep Disorder=None
+0.21657754010695188,0.6982758620689655,1.1924893717524798,"Quality_bin=Good, Stress_bin=Low",Sleep Disorder=None
+0.25668449197860965,0.6486486486486487,1.1891891891891893,"BP_bin=High, SleepDuration_bin=Normal",Age_bin=Middle
+0.03208556149732621,0.6000000000000001,1.1873015873015875,"HR_bin=Elevated, Steps_bin=Low",Gender=Male
+0.2727272727272727,0.6,1.1873015873015873,"HR_bin=Normal, Quality_bin=Medium",Gender=Male
+0.1925133689839572,0.6857142857142856,1.187301587301587,"Gender=Female, Quality_bin=Good",BMI Category=Normal
+0.09358288770053476,0.7954545454545454,1.1852589641434261,"Sleep Disorder=Insomnia, Stress_bin=High",Steps_bin=Medium
+0.43315508021390375,0.7941176470588236,1.1832669322709164,Age_bin=Middle,Steps_bin=Medium
+0.43315508021390375,0.6454183266932271,1.1832669322709164,Steps_bin=Medium,Age_bin=Middle
+0.4572192513368984,0.6923076923076923,1.1822971548998946,"HR_bin=Normal, Steps_bin=Medium",SleepDuration_bin=Long
+0.19518716577540107,0.6822429906542057,1.1812911041883005,"Gender=Female, SleepDuration_bin=Long",BMI Category=Normal
+0.18181818181818182,0.6799999999999999,1.1774074074074072,"Activity_bin=High, Steps_bin=Medium",BMI Category=Normal
+0.08288770053475936,0.6888888888888889,1.176458650431253,"Gender=Male, Steps_bin=Low",Sleep Disorder=None
+0.040106951871657755,0.7894736842105263,1.1763472426085133,"BMI Category=Overweight, Sleep Disorder=None",Steps_bin=Medium
+0.17647058823529413,0.6407766990291263,1.1747572815533982,"SleepDuration_bin=Long, Stress_bin=Medium",Age_bin=Middle
+0.1657754010695187,0.6391752577319588,1.1718213058419247,"Steps_bin=Medium, Stress_bin=Low",Age_bin=Middle
+0.1925133689839572,0.6857142857142856,1.1710371819960859,"Gender=Female, Quality_bin=Good",Sleep Disorder=None
+0.17914438502673796,0.638095238095238,1.16984126984127,"HR_bin=Normal, Stress_bin=Medium",Age_bin=Middle
+0.06951871657754011,0.6842105263157895,1.1684691180004807,"SleepDuration_bin=Normal, Steps_bin=Low",Sleep Disorder=None
+0.19518716577540107,0.6822429906542057,1.165109034267913,"Gender=Female, SleepDuration_bin=Long",Sleep Disorder=None
+0.4572192513368984,0.7808219178082192,1.1634557659771871,SleepDuration_bin=Long,Steps_bin=Medium
+0.4572192513368984,0.6812749003984063,1.1634557659771871,Steps_bin=Medium,SleepDuration_bin=Long
+0.1657754010695187,0.6326530612244898,1.1598639455782314,"BMI Category=Normal, Stress_bin=Medium",Age_bin=Middle
+0.3582887700534759,0.7745664739884393,1.1541349054648458,"Sleep Disorder=None, SleepDuration_bin=Long",Steps_bin=Medium
+0.3663101604278075,0.7740112994350283,1.1533076732617553,"BMI Category=Normal, SleepDuration_bin=Long",Steps_bin=Medium
+0.18983957219251338,0.6283185840707965,1.1519174041297937,Stress_bin=Medium,Age_bin=Middle
+0.17914438502673796,0.6261682242990655,1.1479750778816202,"Steps_bin=Medium, Stress_bin=Medium",Age_bin=Middle
+0.17914438502673796,0.6699999999999999,1.144200913242009,"Activity_bin=High, Steps_bin=Medium",Sleep Disorder=None
+0.18181818181818182,0.6238532110091743,1.143730886850153,"BP_bin=High, Stress_bin=Medium",Age_bin=Middle
+0.18716577540106952,0.660377358490566,1.1434311670160726,"Activity_bin=High, SleepDuration_bin=Long",BMI Category=Normal
+0.36363636363636365,0.7640449438202247,1.1384574063297372,"HR_bin=Normal, Quality_bin=Good",Steps_bin=Medium
+0.2807486631016043,0.7608695652173914,1.133725965702408,"BMI Category=Normal, Gender=Male",Steps_bin=Medium
+0.16844919786096257,0.6176470588235294,1.1323529411764708,"Gender=Male, Stress_bin=Medium",Age_bin=Middle
+0.27807486631016043,0.7591240875912408,1.1311251344985023,"Gender=Male, Sleep Disorder=None",Steps_bin=Medium
+0.39572192513368987,1.0,1.1265060240963856,BMI Category=Overweight,BP_bin=High
+0.3689839572192513,1.0,1.1265060240963856,"BMI Category=Overweight, HR_bin=Normal",BP_bin=High
+0.2914438502673797,1.0,1.1265060240963856,"BMI Category=Overweight, SleepDuration_bin=Normal",BP_bin=High
+0.2914438502673797,1.0,1.1265060240963856,"BMI Category=Overweight, Quality_bin=Medium",BP_bin=High
+0.28342245989304815,1.0,1.1265060240963856,"BMI Category=Overweight, Gender=Female",BP_bin=High
+0.28342245989304815,1.0,1.1265060240963856,"BMI Category=Overweight, Steps_bin=Medium",BP_bin=High
+0.2647058823529412,1.0,1.1265060240963856,"Age_bin=Middle, BMI Category=Overweight",BP_bin=High
+0.232620320855615,1.0,1.1265060240963856,Steps_bin=Low,BP_bin=High
+0.21390374331550802,1.0,1.1265060240963856,Activity_bin=Low,BP_bin=High
+0.20855614973262032,1.0,1.1265060240963856,"BMI Category=Overweight, Stress_bin=High",BP_bin=High
+0.20053475935828877,1.0,1.1265060240963856,"Gender=Female, SleepDuration_bin=Normal",BP_bin=High
+0.19786096256684493,1.0,1.1265060240963856,"Gender=Female, Quality_bin=Medium",BP_bin=High
+0.19518716577540107,1.0,1.1265060240963856,"Activity_bin=Moderate, BMI Category=Overweight",BP_bin=High
+0.1925133689839572,1.0,1.1265060240963856,"Age_bin=Young, Quality_bin=Medium",BP_bin=High
+0.18449197860962566,1.0,1.1265060240963856,"Activity_bin=Low, HR_bin=Normal",BP_bin=High
+0.18181818181818182,1.0,1.1265060240963856,"Activity_bin=High, Gender=Male",BP_bin=High
+0.18181818181818182,1.0,1.1265060240963856,"Sleep Disorder=Insomnia, SleepDuration_bin=Normal",BP_bin=High
+0.18181818181818182,1.0,1.1265060240963856,"Activity_bin=Low, Steps_bin=Low",BP_bin=High
+0.17914438502673796,1.0,1.1265060240963856,"Activity_bin=Low, BMI Category=Normal",BP_bin=High
+0.17914438502673796,1.0,1.1265060240963856,"BMI Category=Normal, Steps_bin=Low",BP_bin=High
+0.17914438502673796,1.0,1.1265060240963856,"HR_bin=Normal, Steps_bin=Low",BP_bin=High
+0.17647058823529413,1.0,1.1265060240963856,"Activity_bin=High, BMI Category=Overweight",BP_bin=High
+0.17647058823529413,1.0,1.1265060240963856,"Quality_bin=Medium, Sleep Disorder=Insomnia",BP_bin=High
+0.17379679144385027,1.0,1.1265060240963856,"BMI Category=Overweight, Sleep Disorder=Sleep Apnea",BP_bin=High
+0.17379679144385027,1.0,1.1265060240963856,"Activity_bin=High, Stress_bin=Medium",BP_bin=High
+0.1711229946524064,1.0,1.1265060240963856,"BMI Category=Overweight, Sleep Disorder=Insomnia",BP_bin=High
+0.1711229946524064,1.0,1.1265060240963856,"Activity_bin=High, Quality_bin=Medium",BP_bin=High
+0.16844919786096257,1.0,1.1265060240963856,"Sleep Disorder=None, Steps_bin=Low",BP_bin=High
+0.16844919786096257,1.0,1.1265060240963856,"Activity_bin=High, Sleep Disorder=Sleep Apnea",BP_bin=High
+0.1657754010695187,1.0,1.1265060240963856,"Activity_bin=Low, Sleep Disorder=None",BP_bin=High
+0.15775401069518716,1.0,1.1265060240963856,"BMI Category=Overweight, Stress_bin=Low",BP_bin=High
+0.13101604278074866,1.0,1.1265060240963856,"Quality_bin=Medium, Stress_bin=Medium",BP_bin=High
+0.12299465240641712,1.0,1.1265060240963856,"Gender=Female, Stress_bin=High",BP_bin=High
+0.12299465240641712,1.0,1.1265060240963856,"SleepDuration_bin=Long, Steps_bin=Low",BP_bin=High
+0.12032085561497326,1.0,1.1265060240963856,"Gender=Male, Steps_bin=Low",BP_bin=High
+0.11764705882352941,1.0,1.1265060240963856,"Sleep Disorder=Insomnia, Stress_bin=High",BP_bin=High
+0.11764705882352941,1.0,1.1265060240963856,"Activity_bin=Low, Stress_bin=High",BP_bin=High
+0.11497326203208556,1.0,1.1265060240963856,"Age_bin=Young, SleepDuration_bin=Normal",BP_bin=High
+0.11497326203208556,1.0,1.1265060240963856,"Age_bin=Young, Stress_bin=High",BP_bin=High
+0.11497326203208556,1.0,1.1265060240963856,"Activity_bin=Low, Age_bin=Young",BP_bin=High
+0.11497326203208556,1.0,1.1265060240963856,"Activity_bin=Low, SleepDuration_bin=Normal",BP_bin=High
+0.11229946524064172,1.0,1.1265060240963856,"Gender=Female, Steps_bin=Low",BP_bin=High
+0.11229946524064172,1.0,1.1265060240963856,"BMI Category=Overweight, Gender=Male",BP_bin=High
+0.11229946524064172,1.0,1.1265060240963856,"Age_bin=Old, BMI Category=Overweight",BP_bin=High
+0.11229946524064172,1.0,1.1265060240963856,"Quality_bin=Good, Steps_bin=Low",BP_bin=High
+0.11229946524064172,1.0,1.1265060240963856,"Steps_bin=Low, Stress_bin=Low",BP_bin=High
+0.10962566844919786,1.0,1.1265060240963856,"Gender=Male, Sleep Disorder=Insomnia",BP_bin=High
+0.10962566844919786,1.0,1.1265060240963856,"Age_bin=Young, Steps_bin=Low",BP_bin=High
+0.10695187165775401,1.0,1.1265060240963856,"Activity_bin=Low, Gender=Female",BP_bin=High
+0.10695187165775401,1.0,1.1265060240963856,"Activity_bin=Low, Gender=Male",BP_bin=High
+0.10695187165775401,1.0,1.1265060240963856,"Sleep Disorder=Sleep Apnea, Stress_bin=High",BP_bin=High
+0.10427807486631016,1.0,1.1265060240963856,"Quality_bin=Medium, SleepDuration_bin=Long",BP_bin=High
+0.10427807486631016,1.0,1.1265060240963856,"Steps_bin=Low, Stress_bin=High",BP_bin=High
+0.10160427807486631,1.0,1.1265060240963856,"Age_bin=Old, Steps_bin=Medium",BP_bin=High
+0.10160427807486631,1.0,1.1265060240963856,"SleepDuration_bin=Normal, Steps_bin=Low",BP_bin=High
+0.0962566844919786,1.0,1.1265060240963856,"BMI Category=Overweight, SleepDuration_bin=Long",BP_bin=High
+0.0962566844919786,1.0,1.1265060240963856,"Quality_bin=Medium, Sleep Disorder=Sleep Apnea",BP_bin=High
+0.0962566844919786,1.0,1.1265060240963856,"Activity_bin=Low, Quality_bin=Medium",BP_bin=High
+0.09358288770053476,1.0,1.1265060240963856,"Sleep Disorder=Sleep Apnea, SleepDuration_bin=Normal",BP_bin=High
+0.09358288770053476,1.0,1.1265060240963856,"Quality_bin=Medium, Steps_bin=Low",BP_bin=High
+0.09090909090909091,1.0,1.1265060240963856,"BMI Category=Overweight, Quality_bin=Good",BP_bin=High
+0.09090909090909091,1.0,1.1265060240963856,"Quality_bin=Medium, Steps_bin=High",BP_bin=High
+0.09090909090909091,1.0,1.1265060240963856,"Steps_bin=High, Stress_bin=High",BP_bin=High
+0.08823529411764706,1.0,1.1265060240963856,"Age_bin=Old, Sleep Disorder=Sleep Apnea",BP_bin=High
+0.08823529411764706,1.0,1.1265060240963856,"Age_bin=Old, Steps_bin=Low",BP_bin=High
+0.08823529411764706,1.0,1.1265060240963856,"SleepDuration_bin=Normal, Steps_bin=High",BP_bin=High
+0.0855614973262032,1.0,1.1265060240963856,"BMI Category=Overweight, Steps_bin=High",BP_bin=High
+0.0855614973262032,1.0,1.1265060240963856,"Activity_bin=Low, SleepDuration_bin=Long",BP_bin=High
+0.0855614973262032,1.0,1.1265060240963856,"Activity_bin=Low, Quality_bin=Good",BP_bin=High
+0.0855614973262032,1.0,1.1265060240963856,"Activity_bin=High, Stress_bin=High",BP_bin=High
+0.0855614973262032,1.0,1.1265060240963856,"Activity_bin=Low, Stress_bin=Low",BP_bin=High
+0.08288770053475936,1.0,1.1265060240963856,"Activity_bin=Low, Age_bin=Old",BP_bin=High
+0.08288770053475936,1.0,1.1265060240963856,"Activity_bin=High, SleepDuration_bin=Normal",BP_bin=High
+0.07754010695187166,1.0,1.1265060240963856,"Sleep Disorder=Sleep Apnea, Steps_bin=High",BP_bin=High
+0.07754010695187166,1.0,1.1265060240963856,"Age_bin=Middle, Steps_bin=High",BP_bin=High
+0.06684491978609626,1.0,1.1265060240963856,"SleepDuration_bin=Normal, Stress_bin=Low",BP_bin=High
+0.06684491978609626,1.0,1.1265060240963856,"Quality_bin=Medium, Stress_bin=Low",BP_bin=High
+0.06417112299465241,1.0,1.1265060240963856,HR_bin=Elevated,BP_bin=High
+0.053475935828877004,1.0,1.1265060240963856,"HR_bin=Elevated, Steps_bin=Low",BP_bin=High
+0.05080213903743316,1.0,1.1265060240963856,"BMI Category=Overweight, Sleep Disorder=None",BP_bin=High
+0.040106951871657755,1.0,1.1265060240963856,"Activity_bin=Moderate, Steps_bin=Low",BP_bin=High
+0.0374331550802139,1.0,1.1265060240963856,"Age_bin=Young, HR_bin=Elevated",BP_bin=High
+0.0374331550802139,1.0,1.1265060240963856,"HR_bin=Elevated, Stress_bin=High",BP_bin=High
+0.034759358288770054,1.0,1.1265060240963856,"Gender=Male, Stress_bin=Low",BP_bin=High
+0.034759358288770054,1.0,1.1265060240963856,"Sleep Disorder=Sleep Apnea, Steps_bin=Low",BP_bin=High
+0.034759358288770054,1.0,1.1265060240963856,"Age_bin=Middle, Steps_bin=Low",BP_bin=High
+0.034759358288770054,1.0,1.1265060240963856,"HR_bin=Elevated, SleepDuration_bin=Normal",BP_bin=High
+0.03208556149732621,1.0,1.1265060240963856,Quality_bin=Poor,BP_bin=High
+0.03208556149732621,1.0,1.1265060240963856,"Gender=Female, HR_bin=Elevated",BP_bin=High
+0.03208556149732621,1.0,1.1265060240963856,"Gender=Male, HR_bin=Elevated",BP_bin=High
+0.03208556149732621,1.0,1.1265060240963856,"HR_bin=Elevated, Sleep Disorder=Sleep Apnea",BP_bin=High
+0.03208556149732621,1.0,1.1265060240963856,"HR_bin=Elevated, Quality_bin=Medium",BP_bin=High
+0.03208556149732621,1.0,1.1265060240963856,"Quality_bin=Poor, Stress_bin=High",BP_bin=High
+0.03208556149732621,1.0,1.1265060240963856,"Activity_bin=Low, Quality_bin=Poor",BP_bin=High
+0.03208556149732621,1.0,1.1265060240963856,"Activity_bin=Low, Steps_bin=Medium",BP_bin=High
+0.36363636363636365,0.7555555555555556,1.1258078795927402,Quality_bin=Good,Steps_bin=Medium
+0.36363636363636365,0.7555555555555556,1.1258078795927402,"Quality_bin=Good, SleepDuration_bin=Long",Steps_bin=Medium
+0.07754010695187166,0.6590909090909092,1.125570776255708,"Activity_bin=Low, Stress_bin=High",Sleep Disorder=None
+0.4839572192513369,0.9945054945054945,1.1203164305573945,Quality_bin=Medium,BP_bin=High
+0.45187165775401067,0.9941176470588236,1.1198795180722891,"HR_bin=Normal, Quality_bin=Medium",BP_bin=High
+0.37967914438502676,0.7513227513227513,1.119500832648243,Gender=Male,Steps_bin=Medium
+0.39572192513368987,0.993288590604027,1.1189455809816449,SleepDuration_bin=Normal,BP_bin=High
+0.3770053475935829,0.9929577464788732,1.1185728830816222,"Quality_bin=Medium, SleepDuration_bin=Normal",BP_bin=High
+0.3609625668449198,0.9926470588235294,1.118222891566265,"HR_bin=Normal, SleepDuration_bin=Normal",BP_bin=High
+0.3181818181818182,0.9916666666666666,1.1171184738955822,Stress_bin=High,BP_bin=High
+0.30213903743315507,0.9912280701754386,1.1166243923060664,"SleepDuration_bin=Normal, Stress_bin=High",BP_bin=High
+0.2994652406417112,0.9911504424778761,1.1165369442371256,"Quality_bin=Medium, Steps_bin=Medium",BP_bin=High
+0.28609625668449196,0.9907407407407407,1.1160754127621597,"Gender=Male, Quality_bin=Medium",BP_bin=High
+0.28609625668449196,0.9907407407407407,1.1160754127621597,"Quality_bin=Medium, Stress_bin=High",BP_bin=High
+0.2807486631016043,0.9905660377358491,1.1158786087747214,"HR_bin=Normal, Stress_bin=High",BP_bin=High
+0.3342245989304813,0.7485029940119761,1.115299281914259,"Age_bin=Middle, BP_bin=High",Steps_bin=Medium
+0.2647058823529412,0.99,1.1152409638554217,"Age_bin=Middle, Quality_bin=Medium",BP_bin=High
+0.25668449197860965,0.9896907216494847,1.1148925599304436,"Age_bin=Middle, SleepDuration_bin=Normal",BP_bin=High
+0.3716577540106952,0.7473118279569892,1.1135243970355138,"BP_bin=High, Gender=Male",Steps_bin=Medium
+0.18181818181818182,0.6071428571428572,1.1130952380952384,"Gender=Male, SleepDuration_bin=Long",Age_bin=Middle
+0.22192513368983957,0.988095238095238,1.113095238095238,"Age_bin=Young, Gender=Male",BP_bin=High
+0.21657754010695188,0.9878048780487806,1.1127681457537468,"Activity_bin=Moderate, Quality_bin=Medium",BP_bin=High
+0.21122994652406418,0.9875,1.1124246987951807,"Quality_bin=Medium, Sleep Disorder=None",BP_bin=High
+0.20588235294117646,0.9871794871794871,1.1120636391720728,Sleep Disorder=Sleep Apnea,BP_bin=High
+0.20588235294117646,0.9871794871794871,1.1120636391720728,"SleepDuration_bin=Normal, Steps_bin=Medium",BP_bin=High
+0.20320855614973263,0.9870129870129871,1.1118760757314976,Sleep Disorder=Insomnia,BP_bin=High
+0.18449197860962566,0.650943396226415,1.1116567588524164,"Activity_bin=High, SleepDuration_bin=Long",Sleep Disorder=None
+0.19786096256684493,0.9866666666666668,1.1114859437751006,"Activity_bin=Moderate, SleepDuration_bin=Normal",BP_bin=High
+0.19518716577540107,0.9864864864864864,1.1112829697167046,"Gender=Male, SleepDuration_bin=Normal",BP_bin=High
+0.19518716577540107,0.9864864864864864,1.1112829697167046,"Gender=Male, Stress_bin=High",BP_bin=High
+0.18181818181818182,0.9855072463768116,1.110179849834119,"HR_bin=Normal, Sleep Disorder=Insomnia",BP_bin=High
+0.17914438502673796,0.9852941176470588,1.1099397590361446,"BMI Category=Normal, Quality_bin=Medium",BP_bin=High
+0.17914438502673796,0.9852941176470588,1.1099397590361446,"Age_bin=Middle, Stress_bin=High",BP_bin=High
+0.17647058823529413,0.9850746268656717,1.1096925013486785,"Gender=Female, Sleep Disorder=Sleep Apnea",BP_bin=High
+0.17379679144385027,0.9848484848484848,1.1094377510040159,"HR_bin=Normal, Sleep Disorder=Sleep Apnea",BP_bin=High
+0.1711229946524064,0.9846153846153846,1.1091751621872104,"Age_bin=Middle, Sleep Disorder=Insomnia",BP_bin=High
+0.1711229946524064,0.9846153846153846,1.1091751621872104,"Sleep Disorder=Insomnia, Steps_bin=Medium",BP_bin=High
+0.49732620320855614,0.9841269841269841,1.1086249760948557,Gender=Male,BP_bin=High
+0.1657754010695187,0.9841269841269841,1.1086249760948557,"Activity_bin=Moderate, Sleep Disorder=Insomnia",BP_bin=High
+0.46524064171123,0.9830508474576272,1.107412701654074,"Gender=Male, HR_bin=Normal",BP_bin=High
+0.1711229946524064,0.6037735849056602,1.1069182389937104,"HR_bin=Normal, Stress_bin=High",Age_bin=Middle
+0.18716577540106952,0.6481481481481481,1.1068831388466092,"Gender=Male, Quality_bin=Medium",Sleep Disorder=None
+0.29411764705882354,0.9821428571428572,1.1063898450946645,"Gender=Male, SleepDuration_bin=Long",BP_bin=High
+0.18181818181818182,0.6476190476190476,1.1059795607740814,"Age_bin=Middle, Gender=Male",SleepDuration_bin=Long
+0.27540106951871657,0.9809523809523809,1.1050487664945496,"Age_bin=Middle, Gender=Male",BP_bin=High
+0.35294117647058826,0.7415730337078652,1.1049733649670979,"BP_bin=High, SleepDuration_bin=Long",Steps_bin=Medium
+0.26737967914438504,0.9803921568627452,1.1044176706827311,"Gender=Male, Stress_bin=Medium",BP_bin=High
+0.17379679144385027,0.6018518518518519,1.1033950617283952,"Quality_bin=Medium, Stress_bin=High",Age_bin=Middle
+0.3716577540106952,0.9788732394366196,1.1027066010520956,"Gender=Male, Steps_bin=Medium",BP_bin=High
+0.12299465240641712,0.9787234042553192,1.102537810817739,"Steps_bin=Medium, Stress_bin=High",BP_bin=High
+0.3609625668449198,0.9782608695652174,1.102016762702986,"BMI Category=Normal, Gender=Male",BP_bin=High
+0.12032085561497326,0.9782608695652173,1.1020167627029858,"Sleep Disorder=None, SleepDuration_bin=Normal",BP_bin=High
+0.3582887700534759,0.9781021897810218,1.1018380089701871,"Gender=Male, Sleep Disorder=None",BP_bin=High
+0.2727272727272727,0.7391304347826086,1.1013337952537674,"BMI Category=Overweight, HR_bin=Normal",Steps_bin=Medium
+0.11497326203208556,0.9772727272727273,1.1009036144578312,"Activity_bin=Moderate, Stress_bin=High",BP_bin=High
